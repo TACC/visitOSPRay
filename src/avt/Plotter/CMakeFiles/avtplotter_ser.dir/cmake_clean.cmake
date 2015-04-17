@@ -81,8 +81,6 @@ FILE(REMOVE_RECURSE
   "CMakeFiles/avtplotter_ser.dir/OSPRay/vtkOSPRayTexture.cxx.o"
   "../../lib/libavtplotter_ser.pdb"
   "../../lib/libavtplotter_ser.so"
-  "../../lib/libavtplotter_ser.pdb"
-  "CMakeFiles/CMakeRelink.dir/libavtplotter_ser.so"
 )
 
 # Per-language clean rules from dependency scanning.

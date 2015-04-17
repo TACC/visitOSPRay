@@ -57,6 +57,10 @@
 #
 #****************************************************************************/
 
+SET(CMAKE_MODULE_PATH ${CMAKE_MODULE_PATH}
+  ${VISIT_SOURCE_DIR}/avt/Plotter/OSPRay/CMake)
+find_package(OSPRay REQUIRED)
+
 SET(VISIT_VTK_MANTA_SOURCES
 Manta/vtkMantaPolyDataMapper.C 
 Manta/vtkMantaTexture.C
@@ -188,7 +192,7 @@ ${VISIT_SOURCE_DIR}/avt/Pipeline/Data
 ${VISIT_SOURCE_DIR}/avt/Pipeline/Pipeline
 ${VISIT_SOURCE_DIR}/avt/Pipeline/Sinks
 ${VISIT_SOURCE_DIR}/avt/Pipeline/Sources
-${VISIT_SOURCE_DIR}/avt/Plotter/Manta
+${VISIT_SOURCE_DIR}/avt/Plotter/OSPRay
 ${VISIT_SOURCE_DIR}/avt/View
 ${VISIT_SOURCE_DIR}/visit_vtk/full
 ${VISIT_SOURCE_DIR}/visit_vtk/lightweight
@@ -211,7 +215,9 @@ ENDIF(HAVE_LIB_R)
 # Add vtk defines
 ADD_TARGET_DEFINITIONS(avtplotter_ser "${VTK_DEFINITIONS}")
 IF(VISIT_MANTA)
-  TARGET_LINK_LIBRARIES(avtplotter_ser ${MANTA_TARGET_LINK_LIBRARIES})
+  TARGET_LINK_LIBRARIES(avtplotter_ser ${MANTA_TARGET_LINK_LIBRARIES}
+    ${OSPRAY_LIBRARIES})
+   INCLUDE_DIRECTORIES(${OSPRAY_INCLUDE_DIRS})
 ENDIF(VISIT_MANTA)
 VISIT_INSTALL_TARGETS(avtplotter_ser)
 
@@ -226,7 +232,8 @@ IF(VISIT_PARALLEL)
     # Add vtk defines
     ADD_TARGET_DEFINITIONS(avtplotter_par "${VTK_DEFINITIONS}")
     IF(VISIT_MANTA)
-      TARGET_LINK_LIBRARIES(avtplotter_par ${MANTA_TARGET_LINK_LIBRARIES})
+      TARGET_LINK_LIBRARIES(avtplotter_par ${MANTA_TARGET_LINK_LIBRARIES}
+    ${OSPRAY_LIBRARIES})
       #IF(ICET_FOUND)
       #  INCLUDE_DIRECTORIES(${ICET_INCLUDE_DIR})
       #  LINK_DIRECTORIES(${ICET_LIBRARY_DIR})

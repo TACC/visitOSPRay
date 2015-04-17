@@ -113,15 +113,8 @@ SET(CMAKE_TARGET_LINKED_INFO_FILES
 
 # The include file search paths:
 SET(CMAKE_C_TARGET_INCLUDE_PATH
-  "."
-  "/work/01336/carson/git/ospray"
-  "/work/01336/carson/git/ospray/ospray"
-  "/work/01336/carson/git/ospray/ospray/embree/common"
-  "/work/01336/carson/git/ospray/ospray/embree"
-  "/work/01336/carson/git/ospray/ospray/include"
   "/work/01336/carson/VisIt/VisItDave/visit/manta/2540/linux-x86_64_icc/include"
-  "/work/01336/carson/git/embree"
-  "/work/01336/carson/git/embree/common"
+  "."
   "include"
   "common/Exceptions/Database"
   "common/Exceptions/Pipeline"
@@ -148,13 +141,18 @@ SET(CMAKE_C_TARGET_INCLUDE_PATH
   "avt/Pipeline/Pipeline"
   "avt/Pipeline/Sinks"
   "avt/Pipeline/Sources"
-  "avt/Plotter/Manta"
+  "avt/Plotter/OSPRay"
   "avt/View"
   "visit_vtk/full"
   "visit_vtk/lightweight"
   "/work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1"
   "/work/01197/semeraro/maverick/VISIT/visit/python/2.7.6/linux-x86_64_icc/include/python2.7"
   "third_party_builtin/glew/glew/include"
+  "/work/01336/carson/git/osprayGHDev"
+  "/work/01336/carson/git/osprayGHDev/ospray"
+  "/work/01336/carson/git/osprayGHDev/ospray/embree/common"
+  "/work/01336/carson/git/osprayGHDev/ospray/embree"
+  "/work/01336/carson/git/osprayGHDev/ospray/include"
   )
 SET(CMAKE_CXX_TARGET_INCLUDE_PATH ${CMAKE_C_TARGET_INCLUDE_PATH})
 SET(CMAKE_Fortran_TARGET_INCLUDE_PATH ${CMAKE_C_TARGET_INCLUDE_PATH})

@@ -59,7 +59,7 @@ SET ( MANTA_SRCS
 set (${vtk-module}_NO_HeaderTest 1)
 
 vtk_module_library(${vtk-module} ${MANTA_SRCS})
-find_package(OSPRay)
+find_package(OSPRay REQUIRED)
 MESSAGE("ospray libs:" + ${OSPRAY_LIBRARIES})
 MESSAGE("vtk-module: " + ${vtk-module})
 TARGET_LINK_LIBRARIES (${vtk-module} LINK_PRIVATE ${OSPRAY_LIBRARIES})
