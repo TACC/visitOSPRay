@@ -27,7 +27,7 @@
 // #include "vtkOSPRayModule.h"
      #include <vector>
 
-#define DEBUG(x) { std::cout << __PRETTY_FUNCTION__ << " " << #x << " " << x << std::endl; }     
+//#define DEBUG(x) { std::cout << __PRETTY_FUNCTION__ << " " << #x << " " << x << std::endl; }     
 
 
 //BTX

@@ -1370,6 +1370,53 @@ avt/Plotter/CMakeFiles/avtplotter_ser.dir/OSPRay/vtkOSPRayActor.cxx.o
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRayManager.h
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRayProperty.h
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRayRenderer.h
+ /work/01336/carson/git/osprayGHDev/ospray/common/OSPCommon.h
+ /work/01336/carson/git/osprayGHDev/ospray/common/OSPDataType.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/affinespace.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/bbox.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/linearspace3.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/math.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/quaternion.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec2.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec3.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec3ba.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec3ba_mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec3fa.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec3fa_mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec3ia.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec3ia_mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec4.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/avx.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/avxb.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/avxf.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/avxi.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/avxi_emu.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/mic_f.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/mic_i.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/mic_m.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/sse.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/sse_mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/sse_special.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/sseb.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/sseb_mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/ssef.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/ssef_mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/ssei.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/ssei_mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/constants.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/intrinsics.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/platform.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/ref.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/stl/string.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/sync/atomic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/sync/barrier.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/sync/condition.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/sync/event.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/sync/mutex.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/taskscheduler.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/thread.h
+ /work/01336/carson/git/osprayGHDev/ospray/include/ospray/ospray.h
 avt/Plotter/CMakeFiles/avtplotter_ser.dir/OSPRay/vtkOSPRayCamera.cxx.o
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkABI.h
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkActor.h
@@ -1415,6 +1462,53 @@ avt/Plotter/CMakeFiles/avtplotter_ser.dir/OSPRay/vtkOSPRayCamera.cxx.o
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRayCamera.h
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRayManager.h
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRayRenderer.h
+ /work/01336/carson/git/osprayGHDev/ospray/common/OSPCommon.h
+ /work/01336/carson/git/osprayGHDev/ospray/common/OSPDataType.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/affinespace.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/bbox.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/linearspace3.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/math.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/quaternion.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec2.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec3.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec3ba.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec3ba_mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec3fa.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec3fa_mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec3ia.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec3ia_mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec4.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/avx.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/avxb.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/avxf.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/avxi.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/avxi_emu.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/mic_f.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/mic_i.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/mic_m.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/sse.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/sse_mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/sse_special.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/sseb.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/sseb_mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/ssef.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/ssef_mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/ssei.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/ssei_mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/constants.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/intrinsics.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/platform.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/ref.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/stl/string.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/sync/atomic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/sync/barrier.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/sync/condition.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/sync/event.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/sync/mutex.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/taskscheduler.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/thread.h
+ /work/01336/carson/git/osprayGHDev/ospray/include/ospray/ospray.h
 avt/Plotter/CMakeFiles/avtplotter_ser.dir/OSPRay/vtkOSPRayLight.cxx.o
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkABI.h
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkActor.h
@@ -1460,6 +1554,53 @@ avt/Plotter/CMakeFiles/avtplotter_ser.dir/OSPRay/vtkOSPRayLight.cxx.o
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRayLight.h
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRayManager.h
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRayRenderer.h
+ /work/01336/carson/git/osprayGHDev/ospray/common/OSPCommon.h
+ /work/01336/carson/git/osprayGHDev/ospray/common/OSPDataType.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/affinespace.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/bbox.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/linearspace3.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/math.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/quaternion.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec2.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec3.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec3ba.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec3ba_mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec3fa.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec3fa_mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec3ia.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec3ia_mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec4.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/avx.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/avxb.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/avxf.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/avxi.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/avxi_emu.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/mic_f.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/mic_i.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/mic_m.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/sse.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/sse_mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/sse_special.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/sseb.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/sseb_mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/ssef.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/ssef_mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/ssei.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/ssei_mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/constants.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/intrinsics.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/platform.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/ref.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/stl/string.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/sync/atomic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/sync/barrier.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/sync/condition.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/sync/event.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/sync/mutex.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/taskscheduler.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/thread.h
+ /work/01336/carson/git/osprayGHDev/ospray/include/ospray/ospray.h
 avt/Plotter/CMakeFiles/avtplotter_ser.dir/OSPRay/vtkOSPRayManager.cxx.o
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkABI.h
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkAtomicInt.h
@@ -1491,6 +1632,53 @@ avt/Plotter/CMakeFiles/avtplotter_ser.dir/OSPRay/vtkOSPRayManager.cxx.o
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRay.h
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRayManager.cxx
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRayManager.h
+ /work/01336/carson/git/osprayGHDev/ospray/common/OSPCommon.h
+ /work/01336/carson/git/osprayGHDev/ospray/common/OSPDataType.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/affinespace.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/bbox.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/linearspace3.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/math.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/quaternion.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec2.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec3.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec3ba.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec3ba_mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec3fa.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec3fa_mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec3ia.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec3ia_mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec4.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/avx.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/avxb.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/avxf.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/avxi.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/avxi_emu.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/mic_f.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/mic_i.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/mic_m.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/sse.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/sse_mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/sse_special.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/sseb.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/sseb_mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/ssef.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/ssef_mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/ssei.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/ssei_mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/constants.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/intrinsics.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/platform.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/ref.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/stl/string.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/sync/atomic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/sync/barrier.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/sync/condition.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/sync/event.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/sync/mutex.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/taskscheduler.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/thread.h
+ /work/01336/carson/git/osprayGHDev/ospray/include/ospray/ospray.h
 avt/Plotter/CMakeFiles/avtplotter_ser.dir/OSPRay/vtkOSPRayObjectFactory.cxx.o
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkABI.h
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkAbstractMapper.h
@@ -1691,6 +1879,53 @@ avt/Plotter/CMakeFiles/avtplotter_ser.dir/OSPRay/vtkOSPRayPolyDataMapper.cxx.o
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRayProperty.h
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRayRenderer.h
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRayTexture.h
+ /work/01336/carson/git/osprayGHDev/ospray/common/OSPCommon.h
+ /work/01336/carson/git/osprayGHDev/ospray/common/OSPDataType.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/affinespace.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/bbox.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/linearspace3.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/math.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/quaternion.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec2.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec3.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec3ba.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec3ba_mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec3fa.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec3fa_mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec3ia.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec3ia_mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec4.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/avx.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/avxb.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/avxf.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/avxi.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/avxi_emu.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/mic_f.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/mic_i.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/mic_m.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/sse.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/sse_mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/sse_special.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/sseb.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/sseb_mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/ssef.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/ssef_mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/ssei.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/ssei_mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/constants.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/intrinsics.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/platform.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/ref.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/stl/string.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/sync/atomic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/sync/barrier.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/sync/condition.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/sync/event.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/sync/mutex.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/taskscheduler.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/thread.h
+ /work/01336/carson/git/osprayGHDev/ospray/include/ospray/ospray.h
 avt/Plotter/CMakeFiles/avtplotter_ser.dir/OSPRay/vtkOSPRayProperty.cxx.o
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkABI.h
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkActor.h
@@ -1736,6 +1971,53 @@ avt/Plotter/CMakeFiles/avtplotter_ser.dir/OSPRay/vtkOSPRayProperty.cxx.o
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRayProperty.cxx
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRayProperty.h
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRayRenderer.h
+ /work/01336/carson/git/osprayGHDev/ospray/common/OSPCommon.h
+ /work/01336/carson/git/osprayGHDev/ospray/common/OSPDataType.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/affinespace.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/bbox.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/linearspace3.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/math.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/quaternion.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec2.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec3.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec3ba.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec3ba_mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec3fa.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec3fa_mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec3ia.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec3ia_mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec4.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/avx.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/avxb.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/avxf.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/avxi.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/avxi_emu.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/mic_f.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/mic_i.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/mic_m.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/sse.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/sse_mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/sse_special.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/sseb.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/sseb_mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/ssef.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/ssef_mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/ssei.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/ssei_mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/constants.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/intrinsics.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/platform.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/ref.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/stl/string.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/sync/atomic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/sync/barrier.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/sync/condition.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/sync/event.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/sync/mutex.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/taskscheduler.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/thread.h
+ /work/01336/carson/git/osprayGHDev/ospray/include/ospray/ospray.h
 avt/Plotter/CMakeFiles/avtplotter_ser.dir/OSPRay/vtkOSPRayRenderer.cxx.o
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkABI.h
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkActor.h
@@ -1801,6 +2083,53 @@ avt/Plotter/CMakeFiles/avtplotter_ser.dir/OSPRay/vtkOSPRayRenderer.cxx.o
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRayManager.h
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRayRenderer.cxx
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRayRenderer.h
+ /work/01336/carson/git/osprayGHDev/ospray/common/OSPCommon.h
+ /work/01336/carson/git/osprayGHDev/ospray/common/OSPDataType.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/affinespace.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/bbox.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/linearspace3.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/math.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/quaternion.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec2.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec3.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec3ba.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec3ba_mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec3fa.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec3fa_mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec3ia.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec3ia_mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec4.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/avx.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/avxb.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/avxf.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/avxi.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/avxi_emu.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/mic_f.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/mic_i.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/mic_m.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/sse.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/sse_mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/sse_special.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/sseb.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/sseb_mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/ssef.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/ssef_mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/ssei.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/ssei_mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/constants.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/intrinsics.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/platform.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/ref.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/stl/string.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/sync/atomic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/sync/barrier.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/sync/condition.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/sync/event.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/sync/mutex.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/taskscheduler.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/thread.h
+ /work/01336/carson/git/osprayGHDev/ospray/include/ospray/ospray.h
 avt/Plotter/CMakeFiles/avtplotter_ser.dir/OSPRay/vtkOSPRayTexture.cxx.o
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkABI.h
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkAbstractArray.h
@@ -1897,6 +2226,53 @@ avt/Plotter/CMakeFiles/avtplotter_ser.dir/OSPRay/vtkOSPRayTexture.cxx.o
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRayRenderer.h
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRayTexture.cxx
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRayTexture.h
+ /work/01336/carson/git/osprayGHDev/ospray/common/OSPCommon.h
+ /work/01336/carson/git/osprayGHDev/ospray/common/OSPDataType.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/affinespace.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/bbox.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/linearspace3.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/math.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/quaternion.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec2.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec3.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec3ba.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec3ba_mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec3fa.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec3fa_mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec3ia.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec3ia_mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/math/vec4.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/avx.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/avxb.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/avxf.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/avxi.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/avxi_emu.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/mic_f.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/mic_i.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/mic_m.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/sse.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/sse_mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/sse_special.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/sseb.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/sseb_mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/ssef.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/ssef_mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/ssei.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/simd/ssei_mic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/constants.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/intrinsics.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/platform.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/ref.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/stl/string.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/sync/atomic.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/sync/barrier.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/sync/condition.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/sync/event.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/sync/mutex.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/taskscheduler.h
+ /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/thread.h
+ /work/01336/carson/git/osprayGHDev/ospray/include/ospray/ospray.h
 avt/Plotter/CMakeFiles/avtplotter_ser.dir/RenderOrder.C.o
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/RenderOrder.C
  avt/Plotter/RenderOrder.h

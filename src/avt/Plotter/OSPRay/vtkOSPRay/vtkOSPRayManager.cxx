@@ -76,7 +76,7 @@ vtkOSPRayManager::vtkOSPRayManager()
   // OSPRayRenderer = ospNewRenderer();
   // OSPRayCamera = ospNewCamera("perspective");
     // printf("%s::%s\n",typeid(*this).name(),__FUNCTION__);
-  DEBUG("1");
+  //DEBUG("1");
   if (!initialized)
   {
     initialized=true;
@@ -94,7 +94,7 @@ vtkOSPRayManager::vtkOSPRayManager()
   }
   // ospLoadModule("pathtracer");
 }
-  DEBUG("2");
+  //DEBUG("2");
   // const char* av[] = {"gluray","--osp:debug"};
 
 

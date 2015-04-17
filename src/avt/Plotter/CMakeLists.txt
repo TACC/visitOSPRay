@@ -74,17 +74,18 @@ Manta/vtkMantaRenderer.C
 Manta/vtkMantaManager.C
 Manta/vtkMantaCubeAxesActor.C
 
-OSPRay/vtkOSPRayActor.cxx
-OSPRay/vtkOSPRayCamera.cxx
+OSPRay/vtkOSPRay/vtkOSPRayActor.cxx
+OSPRay/vtkOSPRay/vtkOSPRayCamera.cxx
 #OSPRay/vtkOSPRayCompositeMapper.cxx
-OSPRay/vtkOSPRayLight.cxx
+OSPRay/vtkOSPRay/vtkOSPRayLight.cxx
 #OSPRay/vtkOSPRayLODActor.cxx
-OSPRay/vtkOSPRayManager.cxx
+OSPRay/vtkOSPRay/vtkOSPRayManager.cxx
 OSPRay/vtkOSPRayObjectFactory.cxx
-OSPRay/vtkOSPRayPolyDataMapper.cxx
-OSPRay/vtkOSPRayProperty.cxx
-OSPRay/vtkOSPRayRenderer.cxx
-OSPRay/vtkOSPRayTexture.cxx
+OSPRay/vtkOSPRayObjectFactory.h
+OSPRay/vtkOSPRay/vtkOSPRayPolyDataMapper.cxx
+OSPRay/vtkOSPRay/vtkOSPRayProperty.cxx
+OSPRay/vtkOSPRay/vtkOSPRayRenderer.cxx
+OSPRay/vtkOSPRay/vtkOSPRayTexture.cxx
 
 )
 
