@@ -1,5 +1,4 @@
-
-VisItOSPRay
+VisItOSPRay <a href="https://tacc.github.io/visitOSPRay/">https://tacc.github.io/visitOSPRay/</a>
 ======
 <h2>About</h2>
 visitOSPRay is a VisIt plugin which creates a custom view using vtkOSPRay for rendering. The code for VisIt, the plugin, and the base VTK code are all contained in the visitOSPRay code tree.
