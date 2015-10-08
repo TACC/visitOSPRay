@@ -1004,6 +1004,14 @@ windows.h
 windows.h
 -
 
+/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/LCS/LCSPluginInfo.C
+LCSPluginInfo.h
+-
+LCSAttributes.h
+-
+visit-config.h
+-
+
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/LCS/LCSViewerPluginInfo.C
 LCSPluginInfo.h
 -

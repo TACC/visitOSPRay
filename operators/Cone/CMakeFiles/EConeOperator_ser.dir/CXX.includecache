@@ -672,12 +672,6 @@ windows.h
 windows.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Cone/ConeAttributes.C
-ConeAttributes.h
--
-DataNode.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Cone/ConeCommonPluginInfo.C
 ConePluginInfo.h
 -
@@ -688,14 +682,6 @@ ConeAttributes.h
 ConePluginInfo.h
 -
 avtConeFilter.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Cone/ConePluginInfo.C
-ConePluginInfo.h
--
-ConeAttributes.h
--
-visit-config.h
 -
 
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Cone/avtConeFilter.C
@@ -1216,14 +1202,6 @@ state_exports.h
 AttributeGroup.h
 -
 Subject.h
--
-
-common/state/DataNode.h
-state_exports.h
--
-AttributeGroup.h
--
-visitstream.h
 -
 
 common/state/JSONNode.h

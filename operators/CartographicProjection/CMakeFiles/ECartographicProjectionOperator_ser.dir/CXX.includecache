@@ -708,14 +708,6 @@ CartographicProjectionPluginInfo.h
 avtCartographicProjectionFilter.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/CartographicProjection/CartographicProjectionPluginInfo.C
-CartographicProjectionPluginInfo.h
--
-CartographicProjectionAttributes.h
--
-visit-config.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/CartographicProjection/avtCartographicProjectionFilter.C
 vtkSphericalTransform.h
 -

@@ -594,30 +594,10 @@ windows.h
 windows.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/CreateBonds/CreateBondsAttributes.C
-CreateBondsAttributes.h
--
-DataNode.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/CreateBonds/CreateBondsCommonPluginInfo.C
-CreateBondsPluginInfo.h
--
-CreateBondsAttributes.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/CreateBonds/CreateBondsEnginePluginInfo.C
 CreateBondsPluginInfo.h
 -
 avtCreateBondsFilter.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/CreateBonds/CreateBondsPluginInfo.C
-CreateBondsPluginInfo.h
--
-CreateBondsAttributes.h
--
-visit-config.h
 -
 
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/CreateBonds/avtCreateBondsFilter.C
@@ -1126,14 +1106,6 @@ state_exports.h
 AttributeGroup.h
 -
 Subject.h
--
-
-common/state/DataNode.h
-state_exports.h
--
-AttributeGroup.h
--
-visitstream.h
 -
 
 common/state/JSONNode.h

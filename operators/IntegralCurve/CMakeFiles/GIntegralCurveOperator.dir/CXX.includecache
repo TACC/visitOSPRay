@@ -1538,10 +1538,6 @@ QvisOperatorWindow.h
 AttributeSubject.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/IntegralCurve/moc_QvisIntegralCurveWindow.cxx
-QvisIntegralCurveWindow.h
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/IntegralCurve/QvisIntegralCurveWindow.h
-
 avt/DBAtts/MetaData/avtArrayMetaData.h
 dbatts_exports.h
 -

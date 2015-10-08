@@ -542,14 +542,6 @@ vtkCommonCoreModule.h
 vtkSystemIncludes.h
 /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkSystemIncludes.h
 
-/work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkTriangle.h
-vtkCommonDataModelModule.h
-/work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkCommonDataModelModule.h
-vtkCell.h
-/work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkCell.h
-vtkMath.h
-/work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkMath.h
-
 /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkType.h
 vtkConfigure.h
 /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkConfigure.h
@@ -770,14 +762,6 @@ vtkUnstructuredGrid.h
 vtkType.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/MIR/Base/MIROptions.C
-MIROptions.h
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/MIR/Base/MIROptions.h
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/MIR/Base/MIROptions.h
-mir_exports.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/MIR/Discrete/DiscreteMIR.C
 DiscreteMIR.h
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/MIR/Discrete/DiscreteMIR.h
@@ -834,10 +818,6 @@ MIRConnectivity.h
 VisItArray.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/MIR/Tet/Edge.C
-Edge.h
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/MIR/Tet/Edge.h
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/MIR/Tet/Edge.h
 mir_exports.h
 -
@@ -846,29 +826,17 @@ limits.h
 vtkType.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/MIR/Tet/Face.C
-Face.h
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/MIR/Tet/Face.h
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/MIR/Tet/Face.h
 mir_exports.h
 -
 limits.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/MIR/Tet/MaterialTetrahedron.C
-MaterialTetrahedron.h
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/MIR/Tet/MaterialTetrahedron.h
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/MIR/Tet/MaterialTetrahedron.h
 MIROptions.h
 -
 vector
 -
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/MIR/Tet/MaterialTriangle.C
-MaterialTriangle.h
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/MIR/Tet/MaterialTriangle.h
 
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/MIR/Tet/MaterialTriangle.h
 MIROptions.h
@@ -1076,8 +1044,6 @@ mat3d_tet.h
 
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/MIR/Tet/ZoneCntAndVF.h
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/MIR/Tet/mat3d_tet.C
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/MIR/Tet/mat3d_tet.h
 
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/MIR/Youngs/CellInterface.C
@@ -1210,28 +1176,6 @@ VisItArray.h
 vector
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/MIR/Youngs/vtkCQS.C
-vtkCQS.h
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/MIR/Youngs/vtkCQS.h
-vtkMath.h
--
-vtkTriangle.h
--
-vtkInformationVector.h
--
-vtkInformation.h
--
-vtkDataSet.h
--
-vtkDoubleArray.h
--
-vtkCell.h
--
-vtkCell3D.h
--
-vtkFieldData.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/MIR/Youngs/vtkCQS.h
 vtkObjectFactory.h
 -
@@ -1345,10 +1289,6 @@ vector
 -
 string
 -
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/MIR/Zoo/BitUtils.C
-BitUtils.h
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/MIR/Zoo/BitUtils.h
 
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/MIR/Zoo/BitUtils.h
 

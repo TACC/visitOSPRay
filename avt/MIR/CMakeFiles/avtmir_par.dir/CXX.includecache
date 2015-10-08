@@ -1076,8 +1076,6 @@ mat3d_tet.h
 
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/MIR/Tet/ZoneCntAndVF.h
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/MIR/Tet/mat3d_tet.C
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/MIR/Tet/mat3d_tet.h
 
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/MIR/Youngs/CellInterface.C
@@ -1345,10 +1343,6 @@ vector
 -
 string
 -
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/MIR/Zoo/BitUtils.C
-BitUtils.h
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/MIR/Zoo/BitUtils.h
 
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/MIR/Zoo/BitUtils.h
 

@@ -398,18 +398,6 @@ DataNode.h
 BoxExtents.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Box/BoxCommonPluginInfo.C
-BoxPluginInfo.h
--
-BoxAttributes.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Box/BoxEnginePluginInfo.C
-BoxPluginInfo.h
--
-avtBoxFilter.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Box/BoxPluginInfo.C
 BoxPluginInfo.h
 -

@@ -846,26 +846,6 @@ QtCore/qglobal.h
 QtGui/qmatrix.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Stagger/StaggerAttributes.C
-StaggerAttributes.h
--
-DataNode.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Stagger/StaggerCommonPluginInfo.C
-StaggerPluginInfo.h
--
-StaggerAttributes.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Stagger/StaggerPluginInfo.C
-StaggerPluginInfo.h
--
-StaggerAttributes.h
--
-visit-config.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Stagger/StaggerViewerPluginInfo.C
 StaggerPluginInfo.h
 -
@@ -930,14 +910,6 @@ state_exports.h
 AttributeGroup.h
 -
 Subject.h
--
-
-common/state/DataNode.h
-state_exports.h
--
-AttributeGroup.h
--
-visitstream.h
 -
 
 common/state/JSONNode.h
@@ -1015,8 +987,6 @@ fstream
 -
 sstream
 -
-
-include/visit-config.h
 
 operators/Stagger/StaggerAttributes.h
 AttributeSubject.h

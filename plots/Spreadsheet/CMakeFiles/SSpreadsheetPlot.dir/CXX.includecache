@@ -352,12 +352,6 @@ snprintf.h
 ColorAttribute.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Spreadsheet/SpreadsheetAttributes.C
-SpreadsheetAttributes.h
--
-DataNode.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Spreadsheet/SpreadsheetCommonPluginInfo.C
 SpreadsheetPluginInfo.h
 -
@@ -438,14 +432,6 @@ common/state/ColorAttribute.h
 state_exports.h
 -
 AttributeSubject.h
--
-
-common/state/DataNode.h
-state_exports.h
--
-AttributeGroup.h
--
-visitstream.h
 -
 
 common/state/JSONNode.h

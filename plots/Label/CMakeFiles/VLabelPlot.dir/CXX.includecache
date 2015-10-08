@@ -1540,6 +1540,18 @@ vtkDataArray.h
 vtkDataArrayTemplate.h
 /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkDataArrayTemplate.h
 
+/work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkUnstructuredGrid.h
+vtkCommonDataModelModule.h
+/work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkCommonDataModelModule.h
+vtkUnstructuredGridBase.h
+/work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkUnstructuredGridBase.h
+
+/work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkUnstructuredGridBase.h
+vtkCommonDataModelModule.h
+/work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkCommonDataModelModule.h
+vtkPointSet.h
+/work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkPointSet.h
+
 /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkVariant.h
 vtkCommonCoreModule.h
 /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkCommonCoreModule.h
@@ -1610,6 +1622,26 @@ vtkObject.h
 
 /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkWindows.h
 windows.h
+-
+
+/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Label/LabelAttributes.C
+LabelAttributes.h
+-
+DataNode.h
+-
+
+/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Label/LabelCommonPluginInfo.C
+LabelPluginInfo.h
+-
+LabelAttributes.h
+-
+
+/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Label/LabelPluginInfo.C
+LabelPluginInfo.h
+-
+LabelAttributes.h
+-
+visit-config.h
 -
 
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Label/LabelViewerPluginInfo.C
@@ -1730,6 +1762,36 @@ vtkSystemIncludes.h
 map
 -
 string
+-
+
+/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Label/avtLabelSubsetsFilter.C
+avtLabelSubsetsFilter.h
+-
+avtDataAttributes.h
+-
+avtOriginatingSource.h
+-
+vtkCellArray.h
+-
+vtkCellData.h
+-
+vtkDataSet.h
+-
+vtkIntArray.h
+-
+vtkPointData.h
+-
+vtkPolyData.h
+-
+vtkUnstructuredGrid.h
+-
+DebugStream.h
+-
+ImproperUseException.h
+-
+string
+-
+vector
 -
 
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Label/avtLabelsMapper.C
@@ -2878,6 +2940,14 @@ state_exports.h
 string
 -
 AttributeSubject.h
+-
+
+common/state/DataNode.h
+state_exports.h
+-
+AttributeGroup.h
+-
+visitstream.h
 -
 
 common/state/Expression.h

@@ -554,32 +554,6 @@ windows.h
 windows.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Tube/TubeAttributes.C
-TubeAttributes.h
--
-DataNode.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Tube/TubeCommonPluginInfo.C
-TubePluginInfo.h
--
-TubeAttributes.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Tube/TubeEnginePluginInfo.C
-TubePluginInfo.h
--
-avtTubeFilter.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Tube/TubePluginInfo.C
-TubePluginInfo.h
--
-TubeAttributes.h
--
-visit-config.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Tube/avtTubeFilter.C
 avtTubeFilter.h
 -
@@ -1022,24 +996,6 @@ misc_exports.h
 
 common/misc/misc_exports.h
 
-common/plugin/OperatorPluginInfo.h
-plugin_exports.h
--
-plugin_vartypes.h
--
-stdio.h
--
-vector
--
-string
--
-
-common/plugin/operator_plugin_exports.h
-
-common/plugin/plugin_exports.h
-
-common/plugin/plugin_vartypes.h
-
 common/state/AttributeGroup.h
 state_exports.h
 -
@@ -1064,14 +1020,6 @@ state_exports.h
 AttributeGroup.h
 -
 Subject.h
--
-
-common/state/DataNode.h
-state_exports.h
--
-AttributeGroup.h
--
-visitstream.h
 -
 
 common/state/JSONNode.h
@@ -1220,12 +1168,6 @@ operators/Tube/TubeAttributes.h
 string
 -
 AttributeSubject.h
--
-
-operators/Tube/TubePluginInfo.h
-OperatorPluginInfo.h
--
-operator_plugin_exports.h
 -
 
 operators/Tube/avtTubeFilter.h

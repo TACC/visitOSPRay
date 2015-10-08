@@ -1484,6 +1484,22 @@ vtkObject.h
 windows.h
 -
 
+/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Curve/CurveAttributes.C
+CurveAttributes.h
+-
+DataNode.h
+-
+Line.h
+-
+
+/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Curve/CurvePluginInfo.C
+CurvePluginInfo.h
+-
+CurveAttributes.h
+-
+visit-config.h
+-
+
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Curve/CurveViewerPluginInfo.C
 CurvePluginInfo.h
 -
@@ -1494,6 +1510,12 @@ avtCurvePlot.h
 Curve.xpm
 -
 avtColorTables.h
+-
+
+/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Curve/avtCurveFilter.C
+avtCurveFilter.h
+-
+avtCurveConstructorFilter.h
 -
 
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Curve/avtCurvePlot.C
@@ -1709,6 +1731,14 @@ vector
 -
 
 avt/Database/Database/database_exports.h
+
+avt/Filters/avtCurveConstructorFilter.h
+filters_exports.h
+-
+avtDatasetToDatasetFilter.h
+-
+vectortypes.h
+-
 
 avt/Filters/avtWarpFilter.h
 filters_exports.h
@@ -2488,6 +2518,14 @@ string
 AttributeSubject.h
 -
 
+common/state/DataNode.h
+state_exports.h
+-
+AttributeGroup.h
+-
+visitstream.h
+-
+
 common/state/GlobalAttributes.h
 state_exports.h
 -
@@ -2524,6 +2562,16 @@ state_exports.h
 AttributeSubject.h
 -
 LightAttributes.h
+-
+
+common/state/Line.h
+state_exports.h
+-
+string
+-
+AttributeSubject.h
+-
+ColorAttribute.h
 -
 
 common/state/MapNode.h

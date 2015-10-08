@@ -926,10 +926,24 @@ vtkObject.h
 windows.h
 -
 
+/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Molecule/MoleculeCommonPluginInfo.C
+MoleculePluginInfo.h
+-
+MoleculeAttributes.h
+-
+
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Molecule/MoleculeEnginePluginInfo.C
 MoleculePluginInfo.h
 -
 avtMoleculePlot.h
+-
+
+/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Molecule/MoleculePluginInfo.C
+MoleculePluginInfo.h
+-
+MoleculeAttributes.h
+-
+visit-config.h
 -
 
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Molecule/avtMantaMoleculeRenderer.C

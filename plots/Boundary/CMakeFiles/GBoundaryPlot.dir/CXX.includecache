@@ -1394,12 +1394,6 @@ windows.h
 windows.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Boundary/BoundaryAttributes.C
-BoundaryAttributes.h
--
-DataNode.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Boundary/BoundaryCommonPluginInfo.C
 BoundaryPluginInfo.h
 -
@@ -1688,14 +1682,6 @@ common/state/ColorAttributeList.h
 state_exports.h
 -
 AttributeSubject.h
--
-
-common/state/DataNode.h
-state_exports.h
--
-AttributeGroup.h
--
-visitstream.h
 -
 
 common/state/JSONNode.h

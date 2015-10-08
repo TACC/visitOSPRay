@@ -14,15 +14,5 @@ stdio.h
 string.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/tools/imagetools/visit_composite.C
-stdio.h
--
-string.h
--
-ImageObject.h
--
-math.h
--
-
 tools/imagetools/ImageObject.h
 

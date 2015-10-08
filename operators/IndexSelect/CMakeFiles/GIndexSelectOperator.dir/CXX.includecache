@@ -186,12 +186,6 @@ QtCore/qatomic_arch.h
 QtCore/qglobal.h
 -
 
-/work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtCore/qbuffer.h
-QtCore/qiodevice.h
--
-QtCore/qbytearray.h
--
-
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtCore/qbytearray.h
 QtCore/qatomic.h
 -
@@ -210,16 +204,6 @@ QtCore/qglobal.h
 
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtCore/qconfig.h
 
-/work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtCore/qcoreapplication.h
-QtCore/qobject.h
--
-QtCore/qcoreevent.h
--
-QtCore/qeventloop.h
--
-QtCore/qstringlist.h
--
-
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtCore/qcoreevent.h
 QtCore/qnamespace.h
 -
@@ -234,10 +218,6 @@ QtCore/qscopedpointer.h
 QtCore/qiodevice.h
 -
 QtCore/qglobal.h
--
-
-/work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtCore/qeventloop.h
-QtCore/qobject.h
 -
 
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtCore/qfeatures.h
@@ -388,10 +368,6 @@ QtCore/qdatastream.h
 QtCore/qnamespace.h
 -
 
-/work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtCore/qpointer.h
-QtCore/qobject.h
--
-
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtCore/qrect.h
 QtCore/qsize.h
 -
@@ -534,10 +510,6 @@ QtCore/QPointF
 QtCore/QPoint
 -
 
-/work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/QApplication
-qapplication.h
-/work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qapplication.h
-
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/QButtonGroup
 qbuttongroup.h
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qbuttongroup.h
@@ -592,28 +564,6 @@ QtGui/qwidget.h
 QtGui/qvalidator.h
 -
 
-/work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qapplication.h
-QtCore/qcoreapplication.h
--
-QtGui/qwindowdefs.h
--
-QtCore/qpoint.h
--
-QtCore/qsize.h
--
-QtGui/qcursor.h
--
-QtGui/qdesktopwidget.h
--
-QtGui/qwidget.h
--
-QtGui/qpalette.h
--
-QtGui/qrgb.h
--
-QtGui/qtransportauth_qws.h
--
-
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qboxlayout.h
 QtGui/qlayout.h
 -
@@ -662,10 +612,6 @@ QtCore/qstringlist.h
 QtCore/qpoint.h
 -
 QtGui/qwindowdefs.h
--
-
-/work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qdesktopwidget.h
-QtGui/qwidget.h
 -
 
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qdrag.h
@@ -948,22 +894,6 @@ QtCore/qpoint.h
 QtCore/qrect.h
 -
 
-/work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qtransportauth_qws.h
-QtCore/qglobal.h
--
-QtCore/qobject.h
--
-QtCore/qhash.h
--
-QtCore/qstring.h
--
-QtCore/qbuffer.h
--
-QtCore/qpointer.h
--
-sys/types.h
--
-
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qvalidator.h
 QtCore/qobject.h
 -
@@ -1178,36 +1108,10 @@ windows.h
 windows.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/IndexSelect/IndexSelectAttributes.C
-IndexSelectAttributes.h
--
-DataNode.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/IndexSelect/IndexSelectCommonPluginInfo.C
 IndexSelectPluginInfo.h
 -
 IndexSelectAttributes.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/IndexSelect/IndexSelectGUIPluginInfo.C
-IndexSelectPluginInfo.h
--
-IndexSelectAttributes.h
--
-QApplication
--
-QvisIndexSelectWindow.h
--
-IndexSelect.xpm
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/IndexSelect/IndexSelectPluginInfo.C
-IndexSelectPluginInfo.h
--
-IndexSelectAttributes.h
--
-visit-config.h
 -
 
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/IndexSelect/QvisIndexSelectWindow.C
@@ -1253,10 +1157,6 @@ QvisOperatorWindow.h
 -
 AttributeSubject.h
 -
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/IndexSelect/moc_QvisIndexSelectWindow.cxx
-QvisIndexSelectWindow.h
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/IndexSelect/QvisIndexSelectWindow.h
 
 avt/DBAtts/MetaData/avtTypes.h
 dbatts_exports.h
@@ -1452,14 +1352,6 @@ state_exports.h
 AttributeGroup.h
 -
 Subject.h
--
-
-common/state/DataNode.h
-state_exports.h
--
-AttributeGroup.h
--
-visitstream.h
 -
 
 common/state/JSONNode.h
@@ -1674,10 +1566,6 @@ limits.h
 
 gui/gui_exports.h
 
-include/visit-config.h
-
-operators/IndexSelect/IndexSelect.xpm
-
 operators/IndexSelect/IndexSelectAttributes.h
 string
 -
@@ -1688,12 +1576,6 @@ operators/IndexSelect/IndexSelectPluginInfo.h
 OperatorPluginInfo.h
 -
 operator_plugin_exports.h
--
-
-operators/IndexSelect/QvisIndexSelectWindow.h
-QvisOperatorWindow.h
--
-AttributeSubject.h
 -
 
 viewer/proxy/ViewerProxy.h

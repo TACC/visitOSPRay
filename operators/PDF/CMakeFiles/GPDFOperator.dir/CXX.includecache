@@ -1308,10 +1308,6 @@ QvisOperatorWindow.h
 AttributeSubject.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/PDF/moc_QvisPDFWindow.cxx
-QvisPDFWindow.h
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/PDF/QvisPDFWindow.h
-
 avt/DBAtts/MetaData/avtTypes.h
 dbatts_exports.h
 -

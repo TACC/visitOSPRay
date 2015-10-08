@@ -636,36 +636,6 @@ windows.h
 windows.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Clip/ClipAttributes.C
-ClipAttributes.h
--
-DataNode.h
--
-BoxExtents.h
--
-SphereAttributes.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Clip/ClipCommonPluginInfo.C
-ClipPluginInfo.h
--
-ClipAttributes.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Clip/ClipEnginePluginInfo.C
-ClipPluginInfo.h
--
-avtClipFilter.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Clip/ClipPluginInfo.C
-ClipPluginInfo.h
--
-ClipAttributes.h
--
-visit-config.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Clip/avtClipFilter.C
 avtClipFilter.h
 -
@@ -1162,24 +1132,6 @@ misc_exports.h
 
 common/misc/misc_exports.h
 
-common/plugin/OperatorPluginInfo.h
-plugin_exports.h
--
-plugin_vartypes.h
--
-stdio.h
--
-vector
--
-string
--
-
-common/plugin/operator_plugin_exports.h
-
-common/plugin/plugin_exports.h
-
-common/plugin/plugin_vartypes.h
-
 common/state/AttributeGroup.h
 state_exports.h
 -
@@ -1204,20 +1156,6 @@ state_exports.h
 AttributeGroup.h
 -
 Subject.h
--
-
-common/state/BoxExtents.h
-state_exports.h
--
-AttributeSubject.h
--
-
-common/state/DataNode.h
-state_exports.h
--
-AttributeGroup.h
--
-visitstream.h
 -
 
 common/state/JSONNode.h
@@ -1272,12 +1210,6 @@ state_exports.h
 AttributeSubject.h
 -
 visitstream.h
--
-
-common/state/SphereAttributes.h
-state_exports.h
--
-AttributeSubject.h
 -
 
 common/state/Subject.h
@@ -1388,12 +1320,6 @@ string
 AttributeSubject.h
 -
 PlaneAttributes.h
--
-
-operators/Clip/ClipPluginInfo.h
-OperatorPluginInfo.h
--
-operator_plugin_exports.h
 -
 
 operators/Clip/avtClipFilter.h

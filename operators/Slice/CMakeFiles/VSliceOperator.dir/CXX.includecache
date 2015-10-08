@@ -846,26 +846,10 @@ QtCore/qglobal.h
 QtGui/qmatrix.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Slice/SliceAttributes.C
-SliceAttributes.h
--
-DataNode.h
--
-PlaneAttributes.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Slice/SliceCommonPluginInfo.C
 SlicePluginInfo.h
 -
 SliceAttributes.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Slice/SlicePluginInfo.C
-SlicePluginInfo.h
--
-SliceAttributes.h
--
-visit-config.h
 -
 
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Slice/SliceViewerPluginInfo.C
@@ -936,14 +920,6 @@ AttributeGroup.h
 Subject.h
 -
 
-common/state/DataNode.h
-state_exports.h
--
-AttributeGroup.h
--
-visitstream.h
--
-
 common/state/JSONNode.h
 state_exports.h
 -
@@ -966,12 +942,6 @@ JSONNode.h
 Variant.h
 -
 map
--
-
-common/state/PlaneAttributes.h
-state_exports.h
--
-AttributeSubject.h
 -
 
 common/state/Subject.h
@@ -1025,8 +995,6 @@ fstream
 -
 sstream
 -
-
-include/visit-config.h
 
 operators/Slice/Slice.xpm
 

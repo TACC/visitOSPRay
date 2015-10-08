@@ -852,20 +852,6 @@ PersistentParticlesAttributes.h
 DataNode.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/PersistentParticles/PersistentParticlesCommonPluginInfo.C
-PersistentParticlesPluginInfo.h
--
-PersistentParticlesAttributes.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/PersistentParticles/PersistentParticlesPluginInfo.C
-PersistentParticlesPluginInfo.h
--
-PersistentParticlesAttributes.h
--
-visit-config.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/PersistentParticles/PersistentParticlesViewerPluginInfo.C
 PersistentParticlesPluginInfo.h
 -
@@ -1017,8 +1003,6 @@ fstream
 -
 sstream
 -
-
-include/visit-config.h
 
 operators/PersistentParticles/PersistentParticles.xpm
 

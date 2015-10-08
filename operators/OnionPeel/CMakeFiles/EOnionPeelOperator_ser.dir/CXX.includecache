@@ -558,32 +558,6 @@ windows.h
 windows.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/OnionPeel/OnionPeelAttributes.C
-OnionPeelAttributes.h
--
-DataNode.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/OnionPeel/OnionPeelCommonPluginInfo.C
-OnionPeelPluginInfo.h
--
-OnionPeelAttributes.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/OnionPeel/OnionPeelEnginePluginInfo.C
-OnionPeelPluginInfo.h
--
-avtOnionPeelFilter.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/OnionPeel/OnionPeelPluginInfo.C
-OnionPeelPluginInfo.h
--
-OnionPeelAttributes.h
--
-visit-config.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/OnionPeel/avtOnionPeelFilter.C
 avtOnionPeelFilter.h
 -
@@ -1184,24 +1158,6 @@ misc_exports.h
 
 common/misc/misc_exports.h
 
-common/plugin/OperatorPluginInfo.h
-plugin_exports.h
--
-plugin_vartypes.h
--
-stdio.h
--
-vector
--
-string
--
-
-common/plugin/operator_plugin_exports.h
-
-common/plugin/plugin_exports.h
-
-common/plugin/plugin_vartypes.h
-
 common/state/AttributeGroup.h
 state_exports.h
 -
@@ -1240,14 +1196,6 @@ state_exports.h
 string
 -
 AttributeSubject.h
--
-
-common/state/DataNode.h
-state_exports.h
--
-AttributeGroup.h
--
-visitstream.h
 -
 
 common/state/GlobalAttributes.h
@@ -1484,12 +1432,6 @@ operators/OnionPeel/OnionPeelAttributes.h
 string
 -
 AttributeSubject.h
--
-
-operators/OnionPeel/OnionPeelPluginInfo.h
-OperatorPluginInfo.h
--
-operator_plugin_exports.h
 -
 
 operators/OnionPeel/avtOnionPeelFilter.h

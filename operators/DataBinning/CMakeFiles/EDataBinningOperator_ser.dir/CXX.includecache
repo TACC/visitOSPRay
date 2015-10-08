@@ -266,12 +266,6 @@ windows.h
 windows.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/DataBinning/DataBinningAttributes.C
-DataBinningAttributes.h
--
-DataNode.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/DataBinning/DataBinningCommonPluginInfo.C
 DataBinningPluginInfo.h
 -
@@ -1084,14 +1078,6 @@ state_exports.h
 string
 -
 AttributeSubject.h
--
-
-common/state/DataNode.h
-state_exports.h
--
-AttributeGroup.h
--
-visitstream.h
 -
 
 common/state/Expression.h

@@ -846,16 +846,6 @@ QtCore/qglobal.h
 QtGui/qmatrix.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Clip/ClipAttributes.C
-ClipAttributes.h
--
-DataNode.h
--
-BoxExtents.h
--
-SphereAttributes.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Clip/ClipCommonPluginInfo.C
 ClipPluginInfo.h
 -
@@ -938,20 +928,6 @@ AttributeGroup.h
 Subject.h
 -
 
-common/state/BoxExtents.h
-state_exports.h
--
-AttributeSubject.h
--
-
-common/state/DataNode.h
-state_exports.h
--
-AttributeGroup.h
--
-visitstream.h
--
-
 common/state/JSONNode.h
 state_exports.h
 -
@@ -977,12 +953,6 @@ map
 -
 
 common/state/PlaneAttributes.h
-state_exports.h
--
-AttributeSubject.h
--
-
-common/state/SphereAttributes.h
 state_exports.h
 -
 AttributeSubject.h

@@ -650,10 +650,6 @@ float.h
 avtParallel.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/DataBinning/avtR2Foperator.C
-avtR2Foperator.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/DataBinning/avtR2Fpdf.C
 avtR2Fpdf.h
 -

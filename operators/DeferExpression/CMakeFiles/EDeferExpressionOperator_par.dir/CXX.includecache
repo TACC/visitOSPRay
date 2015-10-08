@@ -166,24 +166,10 @@ DeferExpressionAttributes.h
 DataNode.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/DeferExpression/DeferExpressionCommonPluginInfo.C
-DeferExpressionPluginInfo.h
--
-DeferExpressionAttributes.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/DeferExpression/DeferExpressionEnginePluginInfo.C
 DeferExpressionPluginInfo.h
 -
 avtDeferExpressionFilter.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/DeferExpression/DeferExpressionPluginInfo.C
-DeferExpressionPluginInfo.h
--
-DeferExpressionAttributes.h
--
-visit-config.h
 -
 
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/DeferExpression/avtDeferExpressionFilter.C

@@ -366,16 +366,6 @@ PyInverseGhostZoneAttributes.h
 InverseGhostZonePluginInfo.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/InverseGhostZone/PyInverseGhostZoneAttributes.C
-PyInverseGhostZoneAttributes.h
--
-ObserverToCallback.h
--
-stdio.h
--
-snprintf.h
--
-
 common/misc/VisItException.h
 exception
 -
@@ -466,22 +456,6 @@ Variant.h
 map
 -
 
-common/state/Observer.h
-state_exports.h
--
-SimpleObserver.h
--
-
-common/state/ObserverToCallback.h
-state_exports.h
--
-Observer.h
--
-
-common/state/SimpleObserver.h
-state_exports.h
--
-
 common/state/Subject.h
 state_exports.h
 -
@@ -513,10 +487,6 @@ map
 -
 
 common/state/state_exports.h
-
-common/utility/snprintf.h
-stdio.h
--
 
 common/utility/vectortypes.h
 string

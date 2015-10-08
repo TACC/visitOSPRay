@@ -160,16 +160,6 @@ windows.h
 windows.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Lineout/LineoutAttributes.C
-LineoutAttributes.h
--
-DataNode.h
--
-Line.h
--
-GlobalLineoutAttributes.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Lineout/LineoutCommonPluginInfo.C
 LineoutPluginInfo.h
 -
@@ -890,20 +880,6 @@ AttributeGroup.h
 Subject.h
 -
 
-common/state/ColorAttribute.h
-state_exports.h
--
-AttributeSubject.h
--
-
-common/state/DataNode.h
-state_exports.h
--
-AttributeGroup.h
--
-visitstream.h
--
-
 common/state/Expression.h
 state_exports.h
 -
@@ -918,14 +894,6 @@ state_exports.h
 AttributeSubject.h
 -
 
-common/state/GlobalLineoutAttributes.h
-state_exports.h
--
-string
--
-AttributeSubject.h
--
-
 common/state/JSONNode.h
 state_exports.h
 -
@@ -936,16 +904,6 @@ vectortypes.h
 vector
 -
 map
--
-
-common/state/Line.h
-state_exports.h
--
-string
--
-AttributeSubject.h
--
-ColorAttribute.h
 -
 
 common/state/MapNode.h

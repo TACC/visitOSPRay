@@ -690,12 +690,6 @@ windows.h
 windows.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/CartographicProjection/CartographicProjectionAttributes.C
-CartographicProjectionAttributes.h
--
-DataNode.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/CartographicProjection/CartographicProjectionCommonPluginInfo.C
 CartographicProjectionPluginInfo.h
 -
@@ -706,14 +700,6 @@ CartographicProjectionAttributes.h
 CartographicProjectionPluginInfo.h
 -
 avtCartographicProjectionFilter.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/CartographicProjection/CartographicProjectionPluginInfo.C
-CartographicProjectionPluginInfo.h
--
-CartographicProjectionAttributes.h
--
-visit-config.h
 -
 
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/CartographicProjection/avtCartographicProjectionFilter.C
@@ -1192,14 +1178,6 @@ state_exports.h
 AttributeGroup.h
 -
 Subject.h
--
-
-common/state/DataNode.h
-state_exports.h
--
-AttributeGroup.h
--
-visitstream.h
 -
 
 common/state/JSONNode.h

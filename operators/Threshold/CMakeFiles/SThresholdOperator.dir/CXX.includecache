@@ -350,12 +350,6 @@ stdio.h
 snprintf.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Threshold/ThresholdAttributes.C
-ThresholdAttributes.h
--
-DataNode.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Threshold/ThresholdCommonPluginInfo.C
 ThresholdPluginInfo.h
 -
@@ -446,14 +440,6 @@ state_exports.h
 string
 -
 AttributeSubject.h
--
-
-common/state/DataNode.h
-state_exports.h
--
-AttributeGroup.h
--
-visitstream.h
 -
 
 common/state/JSONNode.h

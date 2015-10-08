@@ -1482,10 +1482,6 @@ QvisScatterPlotWizardPage.h
 ScatterAttributes.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Scatter/QvisScatterPlotWizard.h
-QvisWizard.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Scatter/QvisScatterPlotWizardPage.C
 QvisScatterPlotWizardPage.h
 -
@@ -1536,12 +1532,6 @@ QWidget
 mini3D.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Scatter/ScatterAttributes.C
-ScatterAttributes.h
--
-DataNode.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Scatter/ScatterCommonPluginInfo.C
 ScatterPluginInfo.h
 -
@@ -1573,10 +1563,6 @@ visit-config.h
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Scatter/moc_QvisScatterPlotWindow.cxx
 QvisScatterPlotWindow.h
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Scatter/QvisScatterPlotWindow.h
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Scatter/moc_QvisScatterPlotWizard.cxx
-QvisScatterPlotWizard.h
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Scatter/QvisScatterPlotWizard.h
 
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Scatter/moc_QvisScatterPlotWizardPage.cxx
 QvisScatterPlotWizardPage.h
@@ -1784,14 +1770,6 @@ common/state/ColorAttribute.h
 state_exports.h
 -
 AttributeSubject.h
--
-
-common/state/DataNode.h
-state_exports.h
--
-AttributeGroup.h
--
-visitstream.h
 -
 
 common/state/JSONNode.h

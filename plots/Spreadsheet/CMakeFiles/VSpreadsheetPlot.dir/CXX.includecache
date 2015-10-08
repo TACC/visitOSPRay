@@ -6,9 +6,17 @@
 
 #IncludeRegexTransform: 
 
+/work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtCore/QAbstractItemModel
+qabstractitemmodel.h
+/work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtCore/qabstractitemmodel.h
+
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtCore/QFile
 qfile.h
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtCore/qfile.h
+
+/work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtCore/QMap
+qmap.h
+/work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtCore/qmap.h
 
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtCore/QObject
 qobject.h
@@ -618,6 +626,10 @@ qcombobox.h
 qfiledialog.h
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qfiledialog.h
 
+/work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/QFontMetrics
+qfontmetrics.h
+/work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qfontmetrics.h
+
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/QFrame
 qframe.h
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qframe.h
@@ -625,6 +637,10 @@ qframe.h
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/QGroupBox
 qgroupbox.h
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qgroupbox.h
+
+/work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/QItemDelegate
+qitemdelegate.h
+/work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qitemdelegate.h
 
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/QLabel
 qlabel.h
@@ -658,6 +674,14 @@ qmenubar.h
 qmessagebox.h
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qmessagebox.h
 
+/work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/QPainter
+qpainter.h
+/work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qpainter.h
+
+/work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/QPalette
+qpalette.h
+/work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qpalette.h
+
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/QPlatformWindow
 qplatformwindow_qpa.h
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qplatformwindow_qpa.h
@@ -673,6 +697,10 @@ qradiobutton.h
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/QSlider
 qslider.h
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qslider.h
+
+/work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/QStyle
+qstyle.h
+/work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qstyle.h
 
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/QTabWidget
 qtabwidget.h
@@ -844,6 +872,16 @@ QtGui/qwidget.h
 QtCore/qobject.h
 -
 
+/work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qdrawutil.h
+QtCore/qnamespace.h
+-
+QtCore/qstring.h
+-
+QtCore/qmargins.h
+-
+QtGui/qpixmap.h
+-
+
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qevent.h
 QtGui/qwindowdefs.h
 -
@@ -962,6 +1000,16 @@ QtCore/qbytearray.h
 QtCore/qrect.h
 -
 QtCore/qstring.h
+-
+
+/work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qitemdelegate.h
+QtGui/qabstractitemdelegate.h
+-
+QtCore/qstring.h
+-
+QtGui/qpixmap.h
+-
+QtCore/qvariant.h
 -
 
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qitemselectionmodel.h
@@ -1094,6 +1142,38 @@ QtCore/qvariant.h
 QtGui/qwindowdefs.h
 -
 QtCore/qrect.h
+-
+
+/work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qpainter.h
+QtCore/qnamespace.h
+-
+QtCore/qrect.h
+-
+QtCore/qpoint.h
+-
+QtCore/qscopedpointer.h
+-
+QtGui/qpixmap.h
+-
+QtGui/qimage.h
+-
+QtGui/qtextoption.h
+-
+QtGui/qdrawutil.h
+-
+QtGui/qpolygon.h
+-
+QtGui/qpen.h
+-
+QtGui/qbrush.h
+-
+QtGui/qmatrix.h
+-
+QtGui/qtransform.h
+-
+QtGui/qfontinfo.h
+-
+QtGui/qfontmetrics.h
 -
 
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qpainterpath.h
@@ -2118,6 +2198,12 @@ vtkObject.h
 windows.h
 -
 
+/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Spreadsheet/SpreadsheetCommonPluginInfo.C
+SpreadsheetPluginInfo.h
+-
+SpreadsheetAttributes.h
+-
+
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Spreadsheet/SpreadsheetCurveViewer.C
 SpreadsheetCurveViewer.h
 -
@@ -2152,6 +2238,52 @@ ViewerWindowManager.h
 ViewerWindow.h
 -
 ViewerMethods.h
+-
+
+/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Spreadsheet/SpreadsheetPluginInfo.C
+SpreadsheetPluginInfo.h
+-
+SpreadsheetAttributes.h
+-
+visit-config.h
+-
+
+/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Spreadsheet/SpreadsheetTable.C
+SpreadsheetTable.h
+-
+QAbstractItemModel
+-
+QItemDelegate
+-
+QMap
+-
+QPainter
+-
+QPalette
+-
+QStyle
+-
+QFontMetrics
+-
+avtLookupTable.h
+-
+vtkLookupTable.h
+-
+vtkRectilinearGrid.h
+-
+vtkPointData.h
+-
+vtkCellData.h
+-
+
+/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Spreadsheet/SpreadsheetTable.h
+string
+-
+QTableView
+-
+list
+-
+vtkDataArray.h
 -
 
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Spreadsheet/SpreadsheetViewer.C
@@ -2266,6 +2398,20 @@ string
 vector
 -
 
+/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Spreadsheet/SpreadsheetViewer.h
+QMainWindow
+-
+Observer.h
+-
+SpreadsheetAttributes.h
+-
+VariableMenuPopulator.h
+-
+vector
+-
+vtkDataSet.h
+-
+
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Spreadsheet/SpreadsheetViewerPluginInfo.C
 SpreadsheetPluginInfo.h
 -
@@ -2339,6 +2485,18 @@ avtSpreadsheetRenderer.h
 -
 SpreadsheetViewer.h
 -
+
+/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Spreadsheet/avtSpreadsheetTraceRenderer.C
+avtSpreadsheetTraceRenderer.h
+-
+
+/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Spreadsheet/moc_SpreadsheetTable.cxx
+SpreadsheetTable.h
+/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Spreadsheet/SpreadsheetTable.h
+
+/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Spreadsheet/moc_SpreadsheetViewer.cxx
+SpreadsheetViewer.h
+/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Spreadsheet/SpreadsheetViewer.h
 
 avt/DBAtts/MetaData/avtArrayMetaData.h
 dbatts_exports.h

@@ -1522,12 +1522,6 @@ AttributeSubject.h
 QvisCMap2Display.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Volume/TransferFunctionWidget.C
-TransferFunctionWidget.h
--
-DataNode.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Volume/VolumeAttributes.C
 VolumeAttributes.h
 -
@@ -1566,10 +1560,6 @@ VolumePluginInfo.h
 VolumeAttributes.h
 -
 visit-config.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Volume/VolumeRLEFunctions.C
-VolumeRLEFunctions.h
 -
 
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Volume/moc_QvisVolumePlotWindow.cxx

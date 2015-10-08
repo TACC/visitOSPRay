@@ -153,6 +153,7 @@ SET(CMAKE_C_TARGET_INCLUDE_PATH
   "/work/01336/carson/git/osprayGHDev/ospray/embree/common"
   "/work/01336/carson/git/osprayGHDev/ospray/embree"
   "/work/01336/carson/git/osprayGHDev/ospray/include"
+  "../../VTK-6.1.0/Parallel/Core"
   )
 SET(CMAKE_CXX_TARGET_INCLUDE_PATH ${CMAKE_C_TARGET_INCLUDE_PATH})
 SET(CMAKE_Fortran_TARGET_INCLUDE_PATH ${CMAKE_C_TARGET_INCLUDE_PATH})

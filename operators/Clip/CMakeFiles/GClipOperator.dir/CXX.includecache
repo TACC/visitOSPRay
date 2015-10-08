@@ -186,12 +186,6 @@ QtCore/qatomic_bootstrap.h
 QtCore/qatomic_arch.h
 -
 
-/work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtCore/qbuffer.h
-QtCore/qiodevice.h
--
-QtCore/qbytearray.h
--
-
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtCore/qbytearray.h
 QtCore/qatomic.h
 -
@@ -210,16 +204,6 @@ QtCore/qglobal.h
 
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtCore/qconfig.h
 
-/work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtCore/qcoreapplication.h
-QtCore/qobject.h
--
-QtCore/qcoreevent.h
--
-QtCore/qeventloop.h
--
-QtCore/qstringlist.h
--
-
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtCore/qcoreevent.h
 QtCore/qnamespace.h
 -
@@ -234,10 +218,6 @@ QtCore/qscopedpointer.h
 QtCore/qiodevice.h
 -
 QtCore/qglobal.h
--
-
-/work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtCore/qeventloop.h
-QtCore/qobject.h
 -
 
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtCore/qfeatures.h
@@ -388,10 +368,6 @@ QtCore/qdatastream.h
 QtCore/qnamespace.h
 -
 
-/work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtCore/qpointer.h
-QtCore/qobject.h
--
-
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtCore/qrect.h
 QtCore/qsize.h
 -
@@ -528,10 +504,6 @@ QtCore/QPointF
 QtCore/QPoint
 -
 
-/work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/QApplication
-qapplication.h
-/work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qapplication.h
-
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/QButtonGroup
 qbuttongroup.h
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qbuttongroup.h
@@ -604,28 +576,6 @@ QtGui/qwidget.h
 QtGui/qvalidator.h
 -
 
-/work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qapplication.h
-QtCore/qcoreapplication.h
--
-QtGui/qwindowdefs.h
--
-QtCore/qpoint.h
--
-QtCore/qsize.h
--
-QtGui/qcursor.h
--
-QtGui/qdesktopwidget.h
--
-QtGui/qwidget.h
--
-QtGui/qpalette.h
--
-QtGui/qrgb.h
--
-QtGui/qtransportauth_qws.h
--
-
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qboxlayout.h
 QtGui/qlayout.h
 -
@@ -684,10 +634,6 @@ QtCore/qvariant.h
 QtCore/qpoint.h
 -
 QtGui/qwindowdefs.h
--
-
-/work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qdesktopwidget.h
-QtGui/qwidget.h
 -
 
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qdrag.h
@@ -1068,22 +1014,6 @@ QtCore/qpoint.h
 QtCore/qrect.h
 -
 
-/work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qtransportauth_qws.h
-QtCore/qglobal.h
--
-QtCore/qobject.h
--
-QtCore/qhash.h
--
-QtCore/qstring.h
--
-QtCore/qbuffer.h
--
-QtCore/qpointer.h
--
-sys/types.h
--
-
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qvalidator.h
 QtCore/qobject.h
 -
@@ -1298,42 +1228,6 @@ windows.h
 windows.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Clip/ClipAttributes.C
-ClipAttributes.h
--
-DataNode.h
--
-BoxExtents.h
--
-SphereAttributes.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Clip/ClipCommonPluginInfo.C
-ClipPluginInfo.h
--
-ClipAttributes.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Clip/ClipGUIPluginInfo.C
-ClipPluginInfo.h
--
-ClipAttributes.h
--
-QApplication
--
-QvisClipWindow.h
--
-Clip.xpm
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Clip/ClipPluginInfo.C
-ClipPluginInfo.h
--
-ClipAttributes.h
--
-visit-config.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Clip/QvisClipWindow.C
 stdio.h
 -
@@ -1502,18 +1396,6 @@ misc_exports.h
 
 common/misc/misc_exports.h
 
-common/plugin/OperatorPluginInfo.h
-plugin_exports.h
--
-plugin_vartypes.h
--
-stdio.h
--
-vector
--
-string
--
-
 common/plugin/OperatorPluginManager.h
 plugin_exports.h
 -
@@ -1544,11 +1426,7 @@ map
 utility
 -
 
-common/plugin/operator_plugin_exports.h
-
 common/plugin/plugin_exports.h
-
-common/plugin/plugin_vartypes.h
 
 common/state/AttributeGroup.h
 state_exports.h
@@ -1574,20 +1452,6 @@ state_exports.h
 AttributeGroup.h
 -
 Subject.h
--
-
-common/state/BoxExtents.h
-state_exports.h
--
-AttributeSubject.h
--
-
-common/state/DataNode.h
-state_exports.h
--
-AttributeGroup.h
--
-visitstream.h
 -
 
 common/state/JSONNode.h
@@ -1646,12 +1510,6 @@ AttributeSubject.h
 
 common/state/SimpleObserver.h
 state_exports.h
--
-
-common/state/SphereAttributes.h
-state_exports.h
--
-AttributeSubject.h
 -
 
 common/state/Subject.h
@@ -1786,22 +1644,12 @@ limits.h
 
 gui/gui_exports.h
 
-include/visit-config.h
-
-operators/Clip/Clip.xpm
-
 operators/Clip/ClipAttributes.h
 string
 -
 AttributeSubject.h
 -
 PlaneAttributes.h
--
-
-operators/Clip/ClipPluginInfo.h
-OperatorPluginInfo.h
--
-operator_plugin_exports.h
 -
 
 operators/Clip/QvisClipWindow.h

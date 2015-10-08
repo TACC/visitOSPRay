@@ -86,6 +86,10 @@ OSPRay/vtkOSPRay/vtkOSPRayPolyDataMapper.cxx
 OSPRay/vtkOSPRay/vtkOSPRayProperty.cxx
 OSPRay/vtkOSPRay/vtkOSPRayRenderer.cxx
 OSPRay/vtkOSPRay/vtkOSPRayTexture.cxx
+# OSPRay/vtkOSPRay/vtkOSPRayPVLODVolume.h
+# OSPRay/vtkOSPRay/vtkOSPRayPVLODVolume.cxx
+# OSPRay/vtkOSPRay/vtkOSPRayVolumeRayCastMapper.h
+# OSPRay/vtkOSPRay/vtkOSPRayVolumeRayCastMapper.cxx
 
 )
 
@@ -214,11 +218,12 @@ ELSE(HAVE_LIB_R)
     TARGET_LINK_LIBRARIES(avtplotter_ser visitcommon avtmath avtview avtfilters_ser avtpipeline_ser visit_vtk lightweight_visit_vtk vtkFiltersHybrid vtkRenderingCore vtkRenderingFreeType vtkRenderingFreeTypeOpenGL ${GLEW_LIB})
 ENDIF(HAVE_LIB_R)
 # Add vtk defines
-ADD_TARGET_DEFINITIONS(avtplotter_ser "${VTK_DEFINITIONS}")
+ADD_TARGET_DEFINITIONS(avtplotter_ser "${VTK_DEFINITIONS}" ) #vtkRenderingVolume
 IF(VISIT_MANTA)
   TARGET_LINK_LIBRARIES(avtplotter_ser ${MANTA_TARGET_LINK_LIBRARIES}
-    ${OSPRAY_LIBRARIES})
-   INCLUDE_DIRECTORIES(${OSPRAY_INCLUDE_DIRS})
+    ${OSPRAY_LIBRARIES} ) #vtkParallelCore vtkRenderingVolume
+  #TODO: Carson: HACK: how does visit manage vtk includes?
+  INCLUDE_DIRECTORIES(${OSPRAY_INCLUDE_DIRS} ${VISIT_SOURCE_DIR}/../../VTK-6.1.0/Parallel/Core)
 ENDIF(VISIT_MANTA)
 VISIT_INSTALL_TARGETS(avtplotter_ser)
 

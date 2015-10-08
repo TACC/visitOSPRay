@@ -166,36 +166,6 @@ PseudocolorPluginInfo.h
 avtPseudocolorPlot.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Pseudocolor/avtPseudocolorPlot.C
-avtPseudocolorPlot.h
--
-PseudocolorAttributes.h
--
-avtColorTables.h
--
-avtExtents.h
--
-avtLookupTable.h
--
-avtStaggeringFilter.h
--
-avtPseudocolorFilter.h
--
-avtShiftCenteringFilter.h
--
-avtVariableLegend.h
--
-avtVariablePointGlyphMapper.h
--
-DebugStream.h
--
-InvalidLimitsException.h
--
-string
--
-vector
--
-
 avt/DBAtts/MetaData/avtTypes.h
 dbatts_exports.h
 -
@@ -304,28 +274,6 @@ vector
 ref_ptr.h
 -
 
-avt/Filters/avtShiftCenteringFilter.h
-filters_exports.h
--
-avtDataTreeIterator.h
--
-
-avt/Filters/avtStaggeringFilter.h
-filters_exports.h
--
-avtDataTreeIterator.h
--
-string
--
-
-avt/Filters/filters_exports.h
-stdio.h
--
-string
--
-iostream
--
-
 avt/Math/avtMatrix.h
 math_exports.h
 -
@@ -362,12 +310,6 @@ avtFilter.h
 avtImageSource.h
 -
 
-avt/Pipeline/AbstractFilters/avtDataTreeIterator.h
-pipeline_exports.h
--
-avtSIMODataTreeIterator.h
--
-
 avt/Pipeline/AbstractFilters/avtDatasetToDataObjectFilter.h
 pipeline_exports.h
 -
@@ -402,18 +344,6 @@ void_ref_ptr.h
 avtDataObjectSource.h
 -
 avtDataObjectSink.h
--
-
-avt/Pipeline/AbstractFilters/avtSIMODataTreeIterator.h
-pipeline_exports.h
--
-avtDatasetToDatasetFilter.h
--
-
-avt/Pipeline/Data/avtColorTables.h
-pipeline_exports.h
--
-string
 -
 
 avt/Pipeline/Data/avtCommonDataFunctions.h
@@ -547,10 +477,6 @@ avtImageRepresentation.h
 -
 
 avt/Pipeline/Data/avtImageRepresentation.h
-pipeline_exports.h
--
-
-avt/Pipeline/Data/avtLookupTable.h
 pipeline_exports.h
 -
 
@@ -760,8 +686,6 @@ pipeline_exports.h
 avtDataObjectSource.h
 -
 
-avt/Plotter/LineAttributes.h
-
 avt/Plotter/RenderOrder.h
 
 avt/Plotter/avtActor.h
@@ -882,34 +806,6 @@ string
 vector
 -
 
-avt/Plotter/avtPointGlypher.h
-plotter_exports.h
--
-string
--
-
-avt/Plotter/avtVariableLegend.h
-plotter_exports.h
--
-avtLegend.h
--
-
-avt/Plotter/avtVariableMapper.h
-plotter_exports.h
--
-avtMapper.h
--
-LineAttributes.h
--
-
-avt/Plotter/avtVariablePointGlyphMapper.h
-plotter_exports.h
--
-avtVariableMapper.h
--
-avtPointGlypher.h
--
-
 avt/Plotter/plotter_exports.h
 
 avt/View/avtViewInfo.h
@@ -934,14 +830,6 @@ avtexception_exports.h
 PipelineException.h
 -
 
-common/Exceptions/Pipeline/InvalidLimitsException.h
-avtexception_exports.h
--
-string
--
-PipelineException.h
--
-
 common/Exceptions/Pipeline/PipelineException.h
 avtexception_exports.h
 -
@@ -955,12 +843,6 @@ comm_exports.h
 -
 
 common/comm/comm_exports.h
-
-common/misc/DebugStream.h
-misc_exports.h
--
-visitstream.h
--
 
 common/misc/VisItException.h
 exception
@@ -1174,14 +1056,6 @@ plots/Pseudocolor/PseudocolorPluginInfo.h
 PlotPluginInfo.h
 -
 plot_plugin_exports.h
--
-
-plots/Pseudocolor/avtPseudocolorFilter.h
-avtDataTreeIterator.h
--
-PseudocolorAttributes.h
--
-string
 -
 
 plots/Pseudocolor/avtPseudocolorPlot.h

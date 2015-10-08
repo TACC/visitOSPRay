@@ -1410,10 +1410,6 @@ QvisPostableWindowObserver.h
 AttributeSubject.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Molecule/moc_QvisMoleculePlotWindow.cxx
-QvisMoleculePlotWindow.h
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Molecule/QvisMoleculePlotWindow.h
-
 avt/DBAtts/MetaData/avtTypes.h
 dbatts_exports.h
 -

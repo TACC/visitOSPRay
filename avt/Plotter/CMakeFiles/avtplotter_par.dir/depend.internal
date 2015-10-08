@@ -1369,6 +1369,7 @@ avt/Plotter/CMakeFiles/avtplotter_par.dir/OSPRay/vtkOSPRay/vtkOSPRayActor.cxx.o
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRay/vtkOSPRayActor.h
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRay/vtkOSPRayManager.h
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRay/vtkOSPRayProperty.h
+ /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRay/vtkOSPRayRenderable.h
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRay/vtkOSPRayRenderer.h
  /work/01336/carson/git/osprayGHDev/ospray/common/OSPCommon.h
  /work/01336/carson/git/osprayGHDev/ospray/common/OSPDataType.h
@@ -1417,6 +1418,7 @@ avt/Plotter/CMakeFiles/avtplotter_par.dir/OSPRay/vtkOSPRay/vtkOSPRayActor.cxx.o
  /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/taskscheduler.h
  /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/thread.h
  /work/01336/carson/git/osprayGHDev/ospray/include/ospray/ospray.h
+ avt/Plotter/OSPRay/vtkOSPRayModule.h
 avt/Plotter/CMakeFiles/avtplotter_par.dir/OSPRay/vtkOSPRay/vtkOSPRayCamera.cxx.o
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkABI.h
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkActor.h
@@ -1461,6 +1463,7 @@ avt/Plotter/CMakeFiles/avtplotter_par.dir/OSPRay/vtkOSPRay/vtkOSPRayCamera.cxx.o
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRay/vtkOSPRayCamera.cxx
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRay/vtkOSPRayCamera.h
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRay/vtkOSPRayManager.h
+ /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRay/vtkOSPRayRenderable.h
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRay/vtkOSPRayRenderer.h
  /work/01336/carson/git/osprayGHDev/ospray/common/OSPCommon.h
  /work/01336/carson/git/osprayGHDev/ospray/common/OSPDataType.h
@@ -1509,6 +1512,7 @@ avt/Plotter/CMakeFiles/avtplotter_par.dir/OSPRay/vtkOSPRay/vtkOSPRayCamera.cxx.o
  /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/taskscheduler.h
  /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/thread.h
  /work/01336/carson/git/osprayGHDev/ospray/include/ospray/ospray.h
+ avt/Plotter/OSPRay/vtkOSPRayModule.h
 avt/Plotter/CMakeFiles/avtplotter_par.dir/OSPRay/vtkOSPRay/vtkOSPRayLight.cxx.o
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkABI.h
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkActor.h
@@ -1553,6 +1557,7 @@ avt/Plotter/CMakeFiles/avtplotter_par.dir/OSPRay/vtkOSPRay/vtkOSPRayLight.cxx.o
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRay/vtkOSPRayLight.cxx
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRay/vtkOSPRayLight.h
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRay/vtkOSPRayManager.h
+ /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRay/vtkOSPRayRenderable.h
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRay/vtkOSPRayRenderer.h
  /work/01336/carson/git/osprayGHDev/ospray/common/OSPCommon.h
  /work/01336/carson/git/osprayGHDev/ospray/common/OSPDataType.h
@@ -1601,6 +1606,7 @@ avt/Plotter/CMakeFiles/avtplotter_par.dir/OSPRay/vtkOSPRay/vtkOSPRayLight.cxx.o
  /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/taskscheduler.h
  /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/thread.h
  /work/01336/carson/git/osprayGHDev/ospray/include/ospray/ospray.h
+ avt/Plotter/OSPRay/vtkOSPRayModule.h
 avt/Plotter/CMakeFiles/avtplotter_par.dir/OSPRay/vtkOSPRay/vtkOSPRayManager.cxx.o
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkABI.h
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkAtomicInt.h
@@ -1679,6 +1685,7 @@ avt/Plotter/CMakeFiles/avtplotter_par.dir/OSPRay/vtkOSPRay/vtkOSPRayManager.cxx.
  /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/taskscheduler.h
  /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/thread.h
  /work/01336/carson/git/osprayGHDev/ospray/include/ospray/ospray.h
+ avt/Plotter/OSPRay/vtkOSPRayModule.h
 avt/Plotter/CMakeFiles/avtplotter_par.dir/OSPRay/vtkOSPRay/vtkOSPRayPolyDataMapper.cxx.o
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkABI.h
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkAbstractArray.h
@@ -1802,6 +1809,7 @@ avt/Plotter/CMakeFiles/avtplotter_par.dir/OSPRay/vtkOSPRay/vtkOSPRayPolyDataMapp
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRay/vtkOSPRayPolyDataMapper.cxx
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRay/vtkOSPRayPolyDataMapper.h
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRay/vtkOSPRayProperty.h
+ /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRay/vtkOSPRayRenderable.h
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRay/vtkOSPRayRenderer.h
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRay/vtkOSPRayTexture.h
  /work/01336/carson/git/osprayGHDev/ospray/common/OSPCommon.h
@@ -1851,6 +1859,7 @@ avt/Plotter/CMakeFiles/avtplotter_par.dir/OSPRay/vtkOSPRay/vtkOSPRayPolyDataMapp
  /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/taskscheduler.h
  /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/thread.h
  /work/01336/carson/git/osprayGHDev/ospray/include/ospray/ospray.h
+ avt/Plotter/OSPRay/vtkOSPRayModule.h
 avt/Plotter/CMakeFiles/avtplotter_par.dir/OSPRay/vtkOSPRay/vtkOSPRayProperty.cxx.o
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkABI.h
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkActor.h
@@ -1895,6 +1904,7 @@ avt/Plotter/CMakeFiles/avtplotter_par.dir/OSPRay/vtkOSPRay/vtkOSPRayProperty.cxx
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRay/vtkOSPRayManager.h
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRay/vtkOSPRayProperty.cxx
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRay/vtkOSPRayProperty.h
+ /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRay/vtkOSPRayRenderable.h
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRay/vtkOSPRayRenderer.h
  /work/01336/carson/git/osprayGHDev/ospray/common/OSPCommon.h
  /work/01336/carson/git/osprayGHDev/ospray/common/OSPDataType.h
@@ -1943,33 +1953,60 @@ avt/Plotter/CMakeFiles/avtplotter_par.dir/OSPRay/vtkOSPRay/vtkOSPRayProperty.cxx
  /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/taskscheduler.h
  /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/thread.h
  /work/01336/carson/git/osprayGHDev/ospray/include/ospray/ospray.h
+ avt/Plotter/OSPRay/vtkOSPRayModule.h
 avt/Plotter/CMakeFiles/avtplotter_par.dir/OSPRay/vtkOSPRay/vtkOSPRayRenderer.cxx.o
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkABI.h
+ /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkAbstractArray.h
+ /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkAbstractMapper.h
+ /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkAbstractMapper3D.h
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkActor.h
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkActorCollection.h
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkAlgorithm.h
+ /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkArrayIterator.h
+ /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkArrayIteratorTemplate.h
+ /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkArrayIteratorTemplate.txx
+ /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkArrayIteratorTemplateImplicit.txx
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkAtomicInt.h
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkAutoInit.h
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkCamera.h
+ /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkCellLinks.h
+ /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkCellType.h
+ /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkCellTypes.h
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkCollection.h
+ /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkCommand.h
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkCommonCoreModule.h
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkCommonDataModelModule.h
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkCommonExecutionModelModule.h
+ /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkCommonInformationKeyManager.h
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkCommonSystemModule.h
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkConfigure.h
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkCuller.h
+ /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkDataArray.h
+ /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkDataArrayTemplate.h
+ /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkDataArrayTemplate.txx
+ /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkDataArrayTemplateImplicit.txx
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkDataObject.h
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkDataSet.h
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkDebugLeaksManager.h
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkIOImageModule.h
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkIOStream.h
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkIOStreamFwd.h
+ /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkIdList.h
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkImageAlgorithm.h
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkImageData.h
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkImageWriter.h
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkIndent.h
+ /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkInformation.h
+ /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkInformationDoubleVectorKey.h
+ /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkInformationInformationVectorKey.h
+ /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkInformationKey.h
+ /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkInformationVector.h
+ /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkIntArray.h
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkLight.h
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkLightCollection.h
+ /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkMappedDataArray.h
+ /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkMappedDataArray.txx
+ /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkMapper.h
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkOStrStreamWrapper.h
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkOStreamWrapper.h
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkObject.h
@@ -1978,21 +2015,42 @@ avt/Plotter/CMakeFiles/avtplotter_par.dir/OSPRay/vtkOSPRay/vtkOSPRayRenderer.cxx
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkOpenGL.h
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkOpenGLRenderer.h
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkPNGWriter.h
+ /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkPointSet.h
+ /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkPoints.h
+ /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkPolyData.h
+ /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkPolyDataMapper.h
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkProp.h
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkProp3D.h
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkPropCollection.h
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkRenderWindow.h
+ /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkRenderWindowInteractor.h
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkRenderer.h
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkRendererCollection.h
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkRenderingCoreModule.h
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkRenderingOpenGLConfigure.h
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkRenderingOpenGLModule.h
+ /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkScalarsToColors.h
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkSetGet.h
+ /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkSmartPointer.h
+ /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkSmartPointerBase.h
+ /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkSortDataArray.h
+ /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkStdString.h
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkStructuredData.h
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkSystemIncludes.h
+ /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkTexture.h
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkTimeStamp.h
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkTimerLog.h
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkType.h
+ /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkTypeTemplate.h
+ /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkTypeTraits.h
+ /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkTypedDataArray.h
+ /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkTypedDataArray.txx
+ /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkTypedDataArrayIterator.h
+ /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkUnicodeString.h
+ /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkUnsignedCharArray.h
+ /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkVariant.h
+ /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkVariantCast.h
+ /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkVariantInlineOperators.h
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkVersionMacros.h
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkViewport.h
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkVolume.h
@@ -2006,6 +2064,7 @@ avt/Plotter/CMakeFiles/avtplotter_par.dir/OSPRay/vtkOSPRay/vtkOSPRayRenderer.cxx
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRay/vtkOSPRayActor.h
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRay/vtkOSPRayCamera.h
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRay/vtkOSPRayManager.h
+ /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRay/vtkOSPRayRenderable.h
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRay/vtkOSPRayRenderer.cxx
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRay/vtkOSPRayRenderer.h
  /work/01336/carson/git/osprayGHDev/ospray/common/OSPCommon.h
@@ -2055,6 +2114,7 @@ avt/Plotter/CMakeFiles/avtplotter_par.dir/OSPRay/vtkOSPRay/vtkOSPRayRenderer.cxx
  /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/taskscheduler.h
  /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/thread.h
  /work/01336/carson/git/osprayGHDev/ospray/include/ospray/ospray.h
+ avt/Plotter/OSPRay/vtkOSPRayModule.h
 avt/Plotter/CMakeFiles/avtplotter_par.dir/OSPRay/vtkOSPRay/vtkOSPRayTexture.cxx.o
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkABI.h
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkAbstractArray.h
@@ -2148,6 +2208,7 @@ avt/Plotter/CMakeFiles/avtplotter_par.dir/OSPRay/vtkOSPRay/vtkOSPRayTexture.cxx.
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkgl.h
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRay/vtkOSPRay.h
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRay/vtkOSPRayManager.h
+ /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRay/vtkOSPRayRenderable.h
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRay/vtkOSPRayRenderer.h
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRay/vtkOSPRayTexture.cxx
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRay/vtkOSPRayTexture.h
@@ -2198,6 +2259,7 @@ avt/Plotter/CMakeFiles/avtplotter_par.dir/OSPRay/vtkOSPRay/vtkOSPRayTexture.cxx.
  /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/taskscheduler.h
  /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/thread.h
  /work/01336/carson/git/osprayGHDev/ospray/include/ospray/ospray.h
+ avt/Plotter/OSPRay/vtkOSPRayModule.h
 avt/Plotter/CMakeFiles/avtplotter_par.dir/OSPRay/vtkOSPRayObjectFactory.cxx.o
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkABI.h
  /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkAbstractMapper.h
@@ -2268,6 +2330,7 @@ avt/Plotter/CMakeFiles/avtplotter_par.dir/OSPRay/vtkOSPRayObjectFactory.cxx.o
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRay/vtkOSPRayLight.h
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRay/vtkOSPRayPolyDataMapper.h
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRay/vtkOSPRayProperty.h
+ /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRay/vtkOSPRayRenderable.h
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRay/vtkOSPRayRenderer.h
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRay/vtkOSPRayTexture.h
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/OSPRay/vtkOSPRayObjectFactory.cxx
@@ -2319,6 +2382,7 @@ avt/Plotter/CMakeFiles/avtplotter_par.dir/OSPRay/vtkOSPRayObjectFactory.cxx.o
  /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/taskscheduler.h
  /work/01336/carson/git/osprayGHDev/ospray/embree/common/sys/thread.h
  /work/01336/carson/git/osprayGHDev/ospray/include/ospray/ospray.h
+ avt/Plotter/OSPRay/vtkOSPRayModule.h
 avt/Plotter/CMakeFiles/avtplotter_par.dir/RenderOrder.C.o
  /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Plotter/RenderOrder.C
  avt/Plotter/RenderOrder.h

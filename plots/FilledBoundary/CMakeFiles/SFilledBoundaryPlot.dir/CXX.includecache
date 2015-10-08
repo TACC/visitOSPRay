@@ -340,12 +340,6 @@ wctype.h
 
 /work/01197/semeraro/maverick/VISIT/visit/python/2.7.6/linux-x86_64_icc/include/python2.7/weakrefobject.h
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/FilledBoundary/FilledBoundaryAttributes.C
-FilledBoundaryAttributes.h
--
-DataNode.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/FilledBoundary/FilledBoundaryCommonPluginInfo.C
 FilledBoundaryPluginInfo.h
 -
@@ -448,14 +442,6 @@ common/state/ColorAttributeList.h
 state_exports.h
 -
 AttributeSubject.h
--
-
-common/state/DataNode.h
-state_exports.h
--
-AttributeGroup.h
--
-visitstream.h
 -
 
 common/state/JSONNode.h

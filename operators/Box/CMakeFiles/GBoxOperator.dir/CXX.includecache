@@ -1312,10 +1312,6 @@ QvisOperatorWindow.h
 AttributeSubject.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Box/moc_QvisBoxWindow.cxx
-QvisBoxWindow.h
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Box/QvisBoxWindow.h
-
 avt/DBAtts/MetaData/avtTypes.h
 dbatts_exports.h
 -

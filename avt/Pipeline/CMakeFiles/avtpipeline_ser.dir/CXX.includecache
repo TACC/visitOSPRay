@@ -1168,20 +1168,6 @@ ImproperUseException.h
 TimingsManager.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Pipeline/AbstractFilters/avtStructuredMeshPartitionStrategy.C
-avtStructuredMeshPartitionStrategy.h
--
-avtSweepPlanePartitionStrategy.h
--
-avtStructuredMeshChunker.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Pipeline/AbstractFilters/avtSweepPlanePartitionStrategy.C
-cstddef
--
-avtSweepPlanePartitionStrategy.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Pipeline/Data/avtAverageValueRF.C
 avtAverageValueRF.h
 -
@@ -1600,12 +1586,6 @@ avtCommonDataFunctions.h
 DebugStream.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Pipeline/Data/avtDistancePixelizer.C
-avtDistancePixelizer.h
--
-vtkLookupTable.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Pipeline/Data/avtDistanceToValueRF.C
 avtDistanceToValueRF.h
 -
@@ -1984,12 +1964,6 @@ DebugStream.h
 ImproperUseException.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Pipeline/Data/avtOpacityMapSamplePointArbitrator.C
-avtOpacityMapSamplePointArbitrator.h
--
-avtOpacityMap.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Pipeline/Data/avtPhong.C
 avtPhong.h
 -
@@ -1998,10 +1972,6 @@ math.h
 visitstream.h
 -
 avtRay.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Pipeline/Data/avtPixelizer.C
-avtPixelizer.h
 -
 
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Pipeline/Data/avtPlaneSelection.C
@@ -2062,10 +2032,6 @@ avtLightingModel.h
 avtRay.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Pipeline/Data/avtRelativeValueSamplePointArbitrator.C
-avtRelativeValueSamplePointArbitrator.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Pipeline/Data/avtResampleSelection.C
 limits.h
 -
@@ -2083,12 +2049,6 @@ pipeline_exports.h
 -
 avtDataSelection.h
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Pipeline/Data/avtDataSelection.h
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Pipeline/Data/avtSamplePointArbitrator.C
-avtSamplePointArbitrator.h
--
-avtOpacityMap.h
--
 
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Pipeline/Data/avtSamplePoints.C
 avtSamplePoints.h
@@ -2132,12 +2092,6 @@ float.h
 avtCellList.h
 -
 avtVolume.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Pipeline/Data/avtVariablePixelizer.C
-avtVariablePixelizer.h
--
-vtkLookupTable.h
 -
 
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Pipeline/Data/avtVolume.C
@@ -3728,12 +3682,6 @@ pipeline_exports.h
 iostream
 -
 
-avt/Pipeline/Data/avtOpacityMapSamplePointArbitrator.h
-pipeline_exports.h
--
-avtSamplePointArbitrator.h
--
-
 avt/Pipeline/Data/avtPhong.h
 pipeline_exports.h
 -
@@ -3792,12 +3740,6 @@ avt/Pipeline/Data/avtRayFunction.h
 pipeline_exports.h
 -
 avtCellTypes.h
--
-
-avt/Pipeline/Data/avtRelativeValueSamplePointArbitrator.h
-pipeline_exports.h
--
-avtSamplePointArbitrator.h
 -
 
 avt/Pipeline/Data/avtResampleSelection.h

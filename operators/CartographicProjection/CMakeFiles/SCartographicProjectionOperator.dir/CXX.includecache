@@ -352,20 +352,6 @@ CartographicProjectionPluginInfo.h
 CartographicProjectionAttributes.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/CartographicProjection/CartographicProjectionPluginInfo.C
-CartographicProjectionPluginInfo.h
--
-CartographicProjectionAttributes.h
--
-visit-config.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/CartographicProjection/CartographicProjectionScriptingPluginInfo.C
-PyCartographicProjectionAttributes.h
--
-CartographicProjectionPluginInfo.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/CartographicProjection/PyCartographicProjectionAttributes.C
 PyCartographicProjectionAttributes.h
 -
@@ -537,8 +523,6 @@ fstream
 -
 sstream
 -
-
-include/visit-config.h
 
 operators/CartographicProjection/CartographicProjectionAttributes.h
 string

@@ -554,12 +554,6 @@ vtkIOCoreModule.h
 vtkAlgorithm.h
 /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkAlgorithm.h
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/AMRStitchCell/AMRStitchCellAttributes.C
-AMRStitchCellAttributes.h
--
-DataNode.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/AMRStitchCell/AMRStitchCellCommonPluginInfo.C
 AMRStitchCellPluginInfo.h
 -
@@ -585,10 +579,6 @@ AMRStitchCellTesselations2D.h
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/AMRStitchCell/AMRStitchCellTesselations2D.h
 
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/AMRStitchCell/AMRStitchCellTesselations2D.h
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/AMRStitchCell/AMRStitchCellTesselations3D.C
-AMRStitchCellTesselations3D.h
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/AMRStitchCell/AMRStitchCellTesselations3D.h
 
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/AMRStitchCell/AMRStitchCellTesselations3D.h
 
@@ -1156,14 +1146,6 @@ state_exports.h
 AttributeGroup.h
 -
 Subject.h
--
-
-common/state/DataNode.h
-state_exports.h
--
-AttributeGroup.h
--
-visitstream.h
 -
 
 common/state/JSONNode.h

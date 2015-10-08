@@ -282,32 +282,6 @@ windows.h
 windows.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/CoordSwap/CoordSwapAttributes.C
-CoordSwapAttributes.h
--
-DataNode.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/CoordSwap/CoordSwapCommonPluginInfo.C
-CoordSwapPluginInfo.h
--
-CoordSwapAttributes.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/CoordSwap/CoordSwapEnginePluginInfo.C
-CoordSwapPluginInfo.h
--
-avtCoordSwapFilter.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/CoordSwap/CoordSwapPluginInfo.C
-CoordSwapPluginInfo.h
--
-CoordSwapAttributes.h
--
-visit-config.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/CoordSwap/avtCoordSwapFilter.C
 avtCoordSwapFilter.h
 -
@@ -726,24 +700,6 @@ misc_exports.h
 
 common/misc/misc_exports.h
 
-common/plugin/OperatorPluginInfo.h
-plugin_exports.h
--
-plugin_vartypes.h
--
-stdio.h
--
-vector
--
-string
--
-
-common/plugin/operator_plugin_exports.h
-
-common/plugin/plugin_exports.h
-
-common/plugin/plugin_vartypes.h
-
 common/state/AttributeGroup.h
 state_exports.h
 -
@@ -768,14 +724,6 @@ state_exports.h
 AttributeGroup.h
 -
 Subject.h
--
-
-common/state/DataNode.h
-state_exports.h
--
-AttributeGroup.h
--
-visitstream.h
 -
 
 common/state/JSONNode.h
@@ -924,12 +872,6 @@ operators/CoordSwap/CoordSwapAttributes.h
 string
 -
 AttributeSubject.h
--
-
-operators/CoordSwap/CoordSwapPluginInfo.h
-OperatorPluginInfo.h
--
-operator_plugin_exports.h
 -
 
 operators/CoordSwap/avtCoordSwapFilter.h

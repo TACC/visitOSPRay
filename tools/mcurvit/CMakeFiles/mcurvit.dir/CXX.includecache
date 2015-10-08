@@ -732,10 +732,6 @@ qstyleoption.h
 qtabwidget.h
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qtabwidget.h
 
-/work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/QTextEdit
-qtextedit.h
-/work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qtextedit.h
-
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/QVBoxLayout
 qboxlayout.h
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qboxlayout.h
@@ -956,18 +952,6 @@ QtCore/qstring.h
 QtCore/qsharedpointer.h
 -
 
-/work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qfontdatabase.h
-QtGui/qwindowdefs.h
--
-QtCore/qstring.h
--
-QtGui/qfont.h
--
-QtCore/qstringlist.h
--
-QtCore/qlist.h
--
-
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qfontinfo.h
 QtGui/qfont.h
 -
@@ -984,16 +968,6 @@ QtCore/qrect.h
 
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qframe.h
 QtGui/qwidget.h
--
-
-/work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qglyphrun.h
-QtCore/qsharedpointer.h
--
-QtCore/qvector.h
--
-QtCore/qpoint.h
--
-QtGui/qrawfont.h
 -
 
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qgridlayout.h
@@ -1272,24 +1246,6 @@ QtGui/qabstractbutton.h
 QtGui/qabstractbutton.h
 -
 
-/work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qrawfont.h
-QtCore/qstring.h
--
-QtCore/qiodevice.h
--
-QtCore/qglobal.h
--
-QtCore/qobject.h
--
-QtCore/qpoint.h
--
-QtGui/qfont.h
--
-QtGui/qtransform.h
--
-QtGui/qfontdatabase.h
--
-
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qregion.h
 QtCore/qatomic.h
 -
@@ -1382,32 +1338,6 @@ QtCore/qshareddata.h
 QtGui/qtextformat.h
 -
 
-/work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qtextdocument.h
-QtCore/qobject.h
--
-QtCore/qsize.h
--
-QtCore/qrect.h
--
-QtGui/qfont.h
--
-
-/work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qtextedit.h
-QtGui/qabstractscrollarea.h
--
-QtGui/qtextdocument.h
--
-QtGui/qtextoption.h
--
-QtGui/qtextcursor.h
--
-QtGui/qtextformat.h
--
-QtGui/qtextobject.h
--
-QtGui/qtextlayout.h
--
-
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qtextformat.h
 QtGui/qcolor.h
 -
@@ -1424,36 +1354,6 @@ QtGui/qpen.h
 QtGui/qbrush.h
 -
 QtGui/qtextoption.h
--
-
-/work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qtextlayout.h
-QtCore/qstring.h
--
-QtCore/qnamespace.h
--
-QtCore/qrect.h
--
-QtCore/qvector.h
--
-QtGui/qcolor.h
--
-QtCore/qobject.h
--
-QtGui/qevent.h
--
-QtGui/qtextformat.h
--
-QtGui/qglyphrun.h
--
-QtGui/qtextcursor.h
--
-
-/work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qtextobject.h
-QtCore/qobject.h
--
-QtGui/qtextformat.h
--
-QtGui/qglyphrun.h
 -
 
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qtextoption.h
@@ -1808,12 +1708,6 @@ vector
 vtkQtRenderWindow.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/tools/mcurvit/MultiCurveViewer.h
-QMainWindow
--
-SimpleObserver.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/tools/mcurvit/QvisAnnotationWidget.C
 QvisAnnotationWidget.h
 -
@@ -1908,16 +1802,6 @@ QMenu
 QStyle
 -
 QStyleOption
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/tools/mcurvit/QvisColorButton.h
-gui_exports.h
--
-QAbstractButton
--
-QColor
--
-vector
 -
 
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/tools/mcurvit/QvisColorGridWidget.C
@@ -2024,16 +1908,6 @@ QWidget
 SimpleObserver.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/tools/mcurvit/QvisGridWidget.C
-QvisGridWidget.h
--
-QMouseEvent
--
-QPainter
--
-QTimer
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/tools/mcurvit/QvisGridWidget.h
 gui_exports.h
 -
@@ -2080,24 +1954,6 @@ gui_exports.h
 QWidget
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/tools/mcurvit/QvisMessageDialog.C
-QvisMessageDialog.h
--
-QLabel
--
-QLayout
--
-QPushButton
--
-QTextEdit
--
-MessageAttributes.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/tools/mcurvit/QvisMessageDialog.h
-QDialog
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/tools/mcurvit/QvisOpacitySlider.C
 qdrawutil.h
 -
@@ -2130,10 +1986,6 @@ gui_exports.h
 QAbstractSlider
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/tools/mcurvit/Synchronizer.C
-Synchronizer.h
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/tools/mcurvit/Synchronizer.h
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/tools/mcurvit/Synchronizer.h
 QObject
 -
@@ -2164,10 +2016,6 @@ windows.h
 MultiCurveProcessor.h
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/tools/mcurvit/MultiCurveProcessor.h
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/tools/mcurvit/moc_MultiCurveViewer.cxx
-MultiCurveViewer.h
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/tools/mcurvit/MultiCurveViewer.h
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/tools/mcurvit/moc_QvisAnnotationWidget.cxx
 QvisAnnotationWidget.h
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/tools/mcurvit/QvisAnnotationWidget.h
@@ -2175,10 +2023,6 @@ QvisAnnotationWidget.h
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/tools/mcurvit/moc_QvisAppearanceWidget.cxx
 QvisAppearanceWidget.h
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/tools/mcurvit/QvisAppearanceWidget.h
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/tools/mcurvit/moc_QvisColorButton.cxx
-QvisColorButton.h
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/tools/mcurvit/QvisColorButton.h
 
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/tools/mcurvit/moc_QvisColorGridWidget.cxx
 QvisColorGridWidget.h
@@ -2207,10 +2051,6 @@ QvisLineStyleWidget.h
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/tools/mcurvit/moc_QvisLineWidthWidget.cxx
 QvisLineWidthWidget.h
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/tools/mcurvit/QvisLineWidthWidget.h
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/tools/mcurvit/moc_QvisMessageDialog.cxx
-QvisMessageDialog.h
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/tools/mcurvit/QvisMessageDialog.h
 
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/tools/mcurvit/moc_QvisOpacitySlider.cxx
 QvisOpacitySlider.h

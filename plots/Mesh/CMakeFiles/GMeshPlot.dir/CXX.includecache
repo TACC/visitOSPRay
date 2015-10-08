@@ -1294,14 +1294,6 @@ MeshAttributes.h
 ViewerProxy.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Mesh/QvisMeshPlotWindow.h
-QvisPostableWindowObserver.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Mesh/moc_QvisMeshPlotWindow.cxx
-QvisMeshPlotWindow.h
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Mesh/QvisMeshPlotWindow.h
-
 avt/DBAtts/MetaData/avtTypes.h
 dbatts_exports.h
 -

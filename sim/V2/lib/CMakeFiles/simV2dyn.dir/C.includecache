@@ -18,10 +18,6 @@ SimUI.h
 
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/sim/V2/lib/SimUI.h
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/sim/V2/lib/SimV2Tracing.c
-SimV2Tracing.h
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/sim/V2/lib/SimV2Tracing.h
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/sim/V2/lib/SimV2Tracing.h
 stdio.h
 -

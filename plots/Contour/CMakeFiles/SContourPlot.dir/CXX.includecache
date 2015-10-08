@@ -340,34 +340,6 @@ wctype.h
 
 /work/01197/semeraro/maverick/VISIT/visit/python/2.7.6/linux-x86_64_icc/include/python2.7/weakrefobject.h
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Contour/ContourAttributes.C
-ContourAttributes.h
--
-DataNode.h
--
-ColorControlPoint.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Contour/ContourCommonPluginInfo.C
-ContourPluginInfo.h
--
-ContourAttributes.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Contour/ContourPluginInfo.C
-ContourPluginInfo.h
--
-ContourAttributes.h
--
-visit-config.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Contour/ContourScriptingPluginInfo.C
-PyContourAttributes.h
--
-ContourPluginInfo.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Contour/PyContourAttributes.C
 PyContourAttributes.h
 -
@@ -397,22 +369,6 @@ misc_exports.h
 -
 
 common/misc/misc_exports.h
-
-common/plugin/PlotPluginInfo.h
-plugin_exports.h
--
-plugin_vartypes.h
--
-stdio.h
--
-string
--
-
-common/plugin/plot_plugin_exports.h
-
-common/plugin/plugin_exports.h
-
-common/plugin/plugin_vartypes.h
 
 common/state/AttributeGroup.h
 state_exports.h
@@ -452,26 +408,12 @@ state_exports.h
 AttributeSubject.h
 -
 
-common/state/ColorControlPoint.h
-state_exports.h
--
-AttributeSubject.h
--
-
 common/state/ColorControlPointList.h
 state_exports.h
 -
 string
 -
 AttributeSubject.h
--
-
-common/state/DataNode.h
-state_exports.h
--
-AttributeGroup.h
--
-visitstream.h
 -
 
 common/state/JSONNode.h
@@ -570,8 +512,6 @@ fstream
 sstream
 -
 
-include/visit-config.h
-
 plots/Contour/ContourAttributes.h
 string
 -
@@ -582,12 +522,6 @@ ColorControlPointList.h
 ColorAttribute.h
 -
 ColorAttributeList.h
--
-
-plots/Contour/ContourPluginInfo.h
-PlotPluginInfo.h
--
-plot_plugin_exports.h
 -
 
 plots/Contour/PyContourAttributes.h

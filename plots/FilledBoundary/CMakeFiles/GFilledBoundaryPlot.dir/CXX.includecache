@@ -186,12 +186,6 @@ QtCore/qatomic_bootstrap.h
 QtCore/qatomic_arch.h
 -
 
-/work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtCore/qbuffer.h
-QtCore/qiodevice.h
--
-QtCore/qbytearray.h
--
-
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtCore/qbytearray.h
 QtCore/qatomic.h
 -
@@ -210,16 +204,6 @@ QtCore/qglobal.h
 
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtCore/qconfig.h
 
-/work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtCore/qcoreapplication.h
-QtCore/qobject.h
--
-QtCore/qcoreevent.h
--
-QtCore/qeventloop.h
--
-QtCore/qstringlist.h
--
-
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtCore/qcoreevent.h
 QtCore/qnamespace.h
 -
@@ -234,10 +218,6 @@ QtCore/qscopedpointer.h
 QtCore/qiodevice.h
 -
 QtCore/qglobal.h
--
-
-/work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtCore/qeventloop.h
-QtCore/qobject.h
 -
 
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtCore/qfeatures.h
@@ -388,10 +368,6 @@ QtCore/qdatastream.h
 QtCore/qnamespace.h
 -
 
-/work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtCore/qpointer.h
-QtCore/qobject.h
--
-
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtCore/qrect.h
 QtCore/qsize.h
 -
@@ -536,10 +512,6 @@ qabstractbutton.h
 qabstractslider.h
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qabstractslider.h
 
-/work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/QApplication
-qapplication.h
-/work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qapplication.h
-
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/QButtonGroup
 qbuttongroup.h
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qbuttongroup.h
@@ -650,28 +622,6 @@ QtGui/qwidget.h
 QtGui/qvalidator.h
 -
 
-/work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qapplication.h
-QtCore/qcoreapplication.h
--
-QtGui/qwindowdefs.h
--
-QtCore/qpoint.h
--
-QtCore/qsize.h
--
-QtGui/qcursor.h
--
-QtGui/qdesktopwidget.h
--
-QtGui/qwidget.h
--
-QtGui/qpalette.h
--
-QtGui/qrgb.h
--
-QtGui/qtransportauth_qws.h
--
-
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qboxlayout.h
 QtGui/qlayout.h
 -
@@ -730,10 +680,6 @@ QtCore/qvariant.h
 QtCore/qpoint.h
 -
 QtGui/qwindowdefs.h
--
-
-/work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qdesktopwidget.h
-QtGui/qwidget.h
 -
 
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qdrag.h
@@ -1164,22 +1110,6 @@ QtCore/qpoint.h
 QtCore/qrect.h
 -
 
-/work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qtransportauth_qws.h
-QtCore/qglobal.h
--
-QtCore/qobject.h
--
-QtCore/qhash.h
--
-QtCore/qstring.h
--
-QtCore/qbuffer.h
--
-QtCore/qpointer.h
--
-sys/types.h
--
-
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qvalidator.h
 QtCore/qobject.h
 -
@@ -1394,38 +1324,6 @@ windows.h
 windows.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/FilledBoundary/FilledBoundaryAttributes.C
-FilledBoundaryAttributes.h
--
-DataNode.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/FilledBoundary/FilledBoundaryCommonPluginInfo.C
-FilledBoundaryPluginInfo.h
--
-FilledBoundaryAttributes.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/FilledBoundary/FilledBoundaryGUIPluginInfo.C
-FilledBoundaryPluginInfo.h
--
-FilledBoundaryAttributes.h
--
-QApplication
--
-QvisFilledBoundaryPlotWindow.h
--
-FilledBoundary.xpm
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/FilledBoundary/FilledBoundaryPluginInfo.C
-FilledBoundaryPluginInfo.h
--
-FilledBoundaryAttributes.h
--
-visit-config.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/FilledBoundary/QvisFilledBoundaryPlotWindow.C
 QvisFilledBoundaryPlotWindow.h
 -
@@ -1475,14 +1373,6 @@ FilledBoundaryAttributes.h
 -
 ViewerProxy.h
 -
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/FilledBoundary/QvisFilledBoundaryPlotWindow.h
-QvisPostableWindowObserver.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/FilledBoundary/moc_QvisFilledBoundaryPlotWindow.cxx
-QvisFilledBoundaryPlotWindow.h
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/FilledBoundary/QvisFilledBoundaryPlotWindow.h
 
 avt/DBAtts/MetaData/avtTypes.h
 dbatts_exports.h
@@ -1616,16 +1506,6 @@ string
 vector
 -
 
-common/plugin/PlotPluginInfo.h
-plugin_exports.h
--
-plugin_vartypes.h
--
-stdio.h
--
-string
--
-
 common/plugin/PlotPluginManager.h
 plugin_exports.h
 -
@@ -1646,11 +1526,7 @@ map
 utility
 -
 
-common/plugin/plot_plugin_exports.h
-
 common/plugin/plugin_exports.h
-
-common/plugin/plugin_vartypes.h
 
 common/state/AttributeGroup.h
 state_exports.h
@@ -1688,14 +1564,6 @@ common/state/ColorAttributeList.h
 state_exports.h
 -
 AttributeSubject.h
--
-
-common/state/DataNode.h
-state_exports.h
--
-AttributeGroup.h
--
-visitstream.h
 -
 
 common/state/JSONNode.h
@@ -1916,10 +1784,6 @@ limits.h
 
 gui/gui_exports.h
 
-include/visit-config.h
-
-plots/FilledBoundary/FilledBoundary.xpm
-
 plots/FilledBoundary/FilledBoundaryAttributes.h
 string
 -
@@ -1928,12 +1792,6 @@ AttributeSubject.h
 ColorAttribute.h
 -
 ColorAttributeList.h
--
-
-plots/FilledBoundary/FilledBoundaryPluginInfo.h
-PlotPluginInfo.h
--
-plot_plugin_exports.h
 -
 
 plots/FilledBoundary/QvisFilledBoundaryPlotWindow.h

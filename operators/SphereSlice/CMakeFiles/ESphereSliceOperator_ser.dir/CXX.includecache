@@ -528,14 +528,6 @@ windows.h
 windows.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/SphereSlice/SphereSliceAttributes.C
-SphereSliceAttributes.h
--
-DataNode.h
--
-SphereAttributes.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/SphereSlice/SphereSliceCommonPluginInfo.C
 SphereSlicePluginInfo.h
 -
@@ -1016,14 +1008,6 @@ AttributeGroup.h
 Subject.h
 -
 
-common/state/DataNode.h
-state_exports.h
--
-AttributeGroup.h
--
-visitstream.h
--
-
 common/state/JSONNode.h
 state_exports.h
 -
@@ -1070,12 +1054,6 @@ state_exports.h
 AttributeSubject.h
 -
 visitstream.h
--
-
-common/state/SphereAttributes.h
-state_exports.h
--
-AttributeSubject.h
 -
 
 common/state/Subject.h

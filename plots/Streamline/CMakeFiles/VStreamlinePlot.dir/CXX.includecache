@@ -1658,6 +1658,40 @@ vtkIOCoreModule.h
 vtkAlgorithm.h
 /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkAlgorithm.h
 
+/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Streamline/StreamlineAttributes.C
+StreamlineAttributes.h
+-
+DataNode.h
+-
+PointAttributes.h
+-
+Line.h
+-
+PlaneAttributes.h
+-
+SphereAttributes.h
+-
+PointAttributes.h
+-
+BoxExtents.h
+-
+stdlib.h
+-
+
+/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Streamline/StreamlineCommonPluginInfo.C
+StreamlinePluginInfo.h
+-
+StreamlineAttributes.h
+-
+
+/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Streamline/StreamlinePluginInfo.C
+StreamlinePluginInfo.h
+-
+StreamlineAttributes.h
+-
+visit-config.h
+-
+
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Streamline/StreamlineViewerPluginInfo.C
 StreamlinePluginInfo.h
 -
@@ -2876,6 +2910,12 @@ AttributeGroup.h
 Subject.h
 -
 
+common/state/BoxExtents.h
+state_exports.h
+-
+AttributeSubject.h
+-
+
 common/state/ColorAttribute.h
 state_exports.h
 -
@@ -2888,6 +2928,14 @@ state_exports.h
 string
 -
 AttributeSubject.h
+-
+
+common/state/DataNode.h
+state_exports.h
+-
+AttributeGroup.h
+-
+visitstream.h
 -
 
 common/state/GlobalAttributes.h
@@ -2928,6 +2976,16 @@ AttributeSubject.h
 LightAttributes.h
 -
 
+common/state/Line.h
+state_exports.h
+-
+string
+-
+AttributeSubject.h
+-
+ColorAttribute.h
+-
+
 common/state/MapNode.h
 state_exports.h
 -
@@ -2956,12 +3014,24 @@ vector
 snprintf.h
 -
 
+common/state/PlaneAttributes.h
+state_exports.h
+-
+AttributeSubject.h
+-
+
 common/state/PlotInfoAttributes.h
 state_exports.h
 -
 AttributeSubject.h
 -
 visitstream.h
+-
+
+common/state/PointAttributes.h
+state_exports.h
+-
+AttributeSubject.h
 -
 
 common/state/RenderingAttributes.h
@@ -2974,6 +3044,12 @@ AttributeSubject.h
 ColorAttribute.h
 -
 float.h
+-
+
+common/state/SphereAttributes.h
+state_exports.h
+-
+AttributeSubject.h
 -
 
 common/state/Subject.h

@@ -1280,14 +1280,6 @@ vtkQtRenderWindow.h
 CommandParser.h
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/tools/embedviewer/CommandParser.h
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/tools/embedviewer/SimpleVisApp.h
-QMainWindow
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/tools/embedviewer/Synchronizer.C
-Synchronizer.h
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/tools/embedviewer/Synchronizer.h
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/tools/embedviewer/Synchronizer.h
 QObject
 -
@@ -1317,14 +1309,6 @@ windows.h
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/tools/embedviewer/moc_CommandParser.cxx
 CommandParser.h
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/tools/embedviewer/CommandParser.h
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/tools/embedviewer/moc_SimpleVisApp.cxx
-SimpleVisApp.h
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/tools/embedviewer/SimpleVisApp.h
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/tools/embedviewer/moc_Synchronizer.cxx
-Synchronizer.h
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/tools/embedviewer/Synchronizer.h
 
 avt/DBAtts/MetaData/avtArrayMetaData.h
 dbatts_exports.h

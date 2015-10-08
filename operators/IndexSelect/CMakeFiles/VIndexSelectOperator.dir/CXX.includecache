@@ -1004,6 +1004,12 @@ windows.h
 windows.h
 -
 
+/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/IndexSelect/IndexSelectCommonPluginInfo.C
+IndexSelectPluginInfo.h
+-
+IndexSelectAttributes.h
+-
+
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/IndexSelect/IndexSelectViewerPluginInfo.C
 IndexSelectPluginInfo.h
 -

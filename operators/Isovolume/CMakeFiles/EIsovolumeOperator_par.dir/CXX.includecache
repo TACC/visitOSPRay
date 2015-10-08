@@ -558,32 +558,6 @@ windows.h
 windows.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Isovolume/IsovolumeAttributes.C
-IsovolumeAttributes.h
--
-DataNode.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Isovolume/IsovolumeCommonPluginInfo.C
-IsovolumePluginInfo.h
--
-IsovolumeAttributes.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Isovolume/IsovolumeEnginePluginInfo.C
-IsovolumePluginInfo.h
--
-avtIsovolumeFilter.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Isovolume/IsovolumePluginInfo.C
-IsovolumePluginInfo.h
--
-IsovolumeAttributes.h
--
-visit-config.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Isovolume/avtIsovolumeFilter.C
 avtIsovolumeFilter.h
 -
@@ -1050,24 +1024,6 @@ misc_exports.h
 
 common/misc/misc_exports.h
 
-common/plugin/OperatorPluginInfo.h
-plugin_exports.h
--
-plugin_vartypes.h
--
-stdio.h
--
-vector
--
-string
--
-
-common/plugin/operator_plugin_exports.h
-
-common/plugin/plugin_exports.h
-
-common/plugin/plugin_vartypes.h
-
 common/state/AttributeGroup.h
 state_exports.h
 -
@@ -1092,14 +1048,6 @@ state_exports.h
 AttributeGroup.h
 -
 Subject.h
--
-
-common/state/DataNode.h
-state_exports.h
--
-AttributeGroup.h
--
-visitstream.h
 -
 
 common/state/JSONNode.h
@@ -1248,12 +1196,6 @@ operators/Isovolume/IsovolumeAttributes.h
 string
 -
 AttributeSubject.h
--
-
-operators/Isovolume/IsovolumePluginInfo.h
-OperatorPluginInfo.h
--
-operator_plugin_exports.h
 -
 
 operators/Isovolume/avtIsovolumeFilter.h

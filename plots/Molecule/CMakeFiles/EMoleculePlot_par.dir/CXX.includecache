@@ -434,6 +434,14 @@ vtkObject.h
 vtkAbstractArray.h
 /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkAbstractArray.h
 
+/work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkFloatArray.h
+vtkCommonCoreModule.h
+/work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkCommonCoreModule.h
+vtkDataArray.h
+/work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkDataArray.h
+vtkDataArrayTemplate.h
+/work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkDataArrayTemplate.h
+
 /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkIOStream.h
 vtkCommonCoreModule.h
 /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkCommonCoreModule.h
@@ -926,10 +934,30 @@ vtkObject.h
 windows.h
 -
 
+/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Molecule/MoleculeAttributes.C
+MoleculeAttributes.h
+-
+DataNode.h
+-
+
+/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Molecule/MoleculeCommonPluginInfo.C
+MoleculePluginInfo.h
+-
+MoleculeAttributes.h
+-
+
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Molecule/MoleculeEnginePluginInfo.C
 MoleculePluginInfo.h
 -
 avtMoleculePlot.h
+-
+
+/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Molecule/MoleculePluginInfo.C
+MoleculePluginInfo.h
+-
+MoleculeAttributes.h
+-
+visit-config.h
 -
 
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Molecule/avtMantaMoleculeRenderer.C
@@ -1008,6 +1036,32 @@ avtMoleculeRendererImplementation.h
 MoleculeAttributes.h
 -
 string
+-
+
+/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Molecule/avtMoleculeFilter.C
+avtMoleculeFilter.h
+-
+vtkDataArray.h
+-
+vtkDataSet.h
+-
+vtkFloatArray.h
+-
+vtkCellData.h
+-
+vtkPointData.h
+-
+DebugStream.h
+-
+AtomicProperties.h
+-
+climits
+-
+set
+-
+string
+-
+vector
 -
 
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Molecule/avtMoleculePlot.C
@@ -2146,6 +2200,14 @@ state_exports.h
 string
 -
 AttributeSubject.h
+-
+
+common/state/DataNode.h
+state_exports.h
+-
+AttributeGroup.h
+-
+visitstream.h
 -
 
 common/state/GlobalAttributes.h

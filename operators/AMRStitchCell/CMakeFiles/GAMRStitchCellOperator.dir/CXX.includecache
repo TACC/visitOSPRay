@@ -1234,12 +1234,6 @@ windows.h
 windows.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/AMRStitchCell/AMRStitchCellAttributes.C
-AMRStitchCellAttributes.h
--
-DataNode.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/AMRStitchCell/AMRStitchCellCommonPluginInfo.C
 AMRStitchCellPluginInfo.h
 -
@@ -1309,10 +1303,6 @@ QvisOperatorWindow.h
 -
 AttributeSubject.h
 -
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/AMRStitchCell/moc_QvisAMRStitchCellWindow.cxx
-QvisAMRStitchCellWindow.h
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/AMRStitchCell/QvisAMRStitchCellWindow.h
 
 avt/DBAtts/MetaData/avtTypes.h
 dbatts_exports.h
@@ -1508,14 +1498,6 @@ state_exports.h
 AttributeGroup.h
 -
 Subject.h
--
-
-common/state/DataNode.h
-state_exports.h
--
-AttributeGroup.h
--
-visitstream.h
 -
 
 common/state/JSONNode.h

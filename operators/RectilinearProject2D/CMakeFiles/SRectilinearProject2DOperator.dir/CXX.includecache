@@ -350,30 +350,10 @@ stdio.h
 snprintf.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/RectilinearProject2D/RectilinearProject2DAttributes.C
-RectilinearProject2DAttributes.h
--
-DataNode.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/RectilinearProject2D/RectilinearProject2DCommonPluginInfo.C
 RectilinearProject2DPluginInfo.h
 -
 RectilinearProject2DAttributes.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/RectilinearProject2D/RectilinearProject2DPluginInfo.C
-RectilinearProject2DPluginInfo.h
--
-RectilinearProject2DAttributes.h
--
-visit-config.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/RectilinearProject2D/RectilinearProject2DScriptingPluginInfo.C
-PyRectilinearProject2DAttributes.h
--
-RectilinearProject2DPluginInfo.h
 -
 
 common/misc/VisItException.h
@@ -432,14 +412,6 @@ state_exports.h
 AttributeGroup.h
 -
 Subject.h
--
-
-common/state/DataNode.h
-state_exports.h
--
-AttributeGroup.h
--
-visitstream.h
 -
 
 common/state/JSONNode.h
@@ -537,8 +509,6 @@ fstream
 -
 sstream
 -
-
-include/visit-config.h
 
 operators/RectilinearProject2D/PyRectilinearProject2DAttributes.h
 Python.h

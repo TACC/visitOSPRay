@@ -1054,14 +1054,6 @@ Font.h
 Vector.h
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/tools/clipeditor/Vector.h
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/tools/clipeditor/Matrix.C
-Matrix.h
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/tools/clipeditor/Matrix.h
-Vector.h
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/tools/clipeditor/Vector.h
-math.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/tools/clipeditor/Matrix.h
 iostream
 -

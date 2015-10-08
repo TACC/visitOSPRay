@@ -636,32 +636,10 @@ windows.h
 windows.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Slice/SliceAttributes.C
-SliceAttributes.h
--
-DataNode.h
--
-PlaneAttributes.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Slice/SliceCommonPluginInfo.C
 SlicePluginInfo.h
 -
 SliceAttributes.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Slice/SliceEnginePluginInfo.C
-SlicePluginInfo.h
--
-avtSliceFilter.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Slice/SlicePluginInfo.C
-SlicePluginInfo.h
--
-SliceAttributes.h
--
-visit-config.h
 -
 
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Slice/avtSliceFilter.C
@@ -1332,14 +1310,6 @@ string
 AttributeSubject.h
 -
 
-common/state/DataNode.h
-state_exports.h
--
-AttributeGroup.h
--
-visitstream.h
--
-
 common/state/GlobalAttributes.h
 state_exports.h
 -
@@ -1404,12 +1374,6 @@ Namescheme.h
 vector
 -
 snprintf.h
--
-
-common/state/PlaneAttributes.h
-state_exports.h
--
-AttributeSubject.h
 -
 
 common/state/PlotInfoAttributes.h

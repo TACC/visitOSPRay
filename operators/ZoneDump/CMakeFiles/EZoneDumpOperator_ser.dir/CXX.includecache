@@ -474,12 +474,6 @@ windows.h
 windows.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/ZoneDump/ZoneDumpAttributes.C
-ZoneDumpAttributes.h
--
-DataNode.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/ZoneDump/ZoneDumpCommonPluginInfo.C
 ZoneDumpPluginInfo.h
 -
@@ -982,14 +976,6 @@ state_exports.h
 AttributeGroup.h
 -
 Subject.h
--
-
-common/state/DataNode.h
-state_exports.h
--
-AttributeGroup.h
--
-visitstream.h
 -
 
 common/state/JSONNode.h

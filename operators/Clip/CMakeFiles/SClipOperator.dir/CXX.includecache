@@ -340,16 +340,6 @@ wctype.h
 
 /work/01197/semeraro/maverick/VISIT/visit/python/2.7.6/linux-x86_64_icc/include/python2.7/weakrefobject.h
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Clip/ClipAttributes.C
-ClipAttributes.h
--
-DataNode.h
--
-BoxExtents.h
--
-SphereAttributes.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Clip/ClipCommonPluginInfo.C
 ClipPluginInfo.h
 -
@@ -368,16 +358,6 @@ visit-config.h
 PyClipAttributes.h
 -
 ClipPluginInfo.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Clip/PyClipAttributes.C
-PyClipAttributes.h
--
-ObserverToCallback.h
--
-stdio.h
--
-snprintf.h
 -
 
 common/misc/VisItException.h
@@ -438,20 +418,6 @@ AttributeGroup.h
 Subject.h
 -
 
-common/state/BoxExtents.h
-state_exports.h
--
-AttributeSubject.h
--
-
-common/state/DataNode.h
-state_exports.h
--
-AttributeGroup.h
--
-visitstream.h
--
-
 common/state/JSONNode.h
 state_exports.h
 -
@@ -476,29 +442,7 @@ Variant.h
 map
 -
 
-common/state/Observer.h
-state_exports.h
--
-SimpleObserver.h
--
-
-common/state/ObserverToCallback.h
-state_exports.h
--
-Observer.h
--
-
 common/state/PlaneAttributes.h
-state_exports.h
--
-AttributeSubject.h
--
-
-common/state/SimpleObserver.h
-state_exports.h
--
-
-common/state/SphereAttributes.h
 state_exports.h
 -
 AttributeSubject.h
@@ -535,10 +479,6 @@ map
 -
 
 common/state/state_exports.h
-
-common/utility/snprintf.h
-stdio.h
--
 
 common/utility/vectortypes.h
 string

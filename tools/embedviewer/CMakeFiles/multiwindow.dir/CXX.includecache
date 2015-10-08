@@ -1234,10 +1234,6 @@ PlotList.h
 vtkQtRenderWindow.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/tools/embedviewer/MultiWindowVisApp.h
-QMainWindow
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/tools/embedviewer/main.C
 visit-config.h
 -
@@ -1255,10 +1251,6 @@ QWidget
 -
 windows.h
 -
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/tools/embedviewer/moc_MultiWindowVisApp.cxx
-MultiWindowVisApp.h
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/tools/embedviewer/MultiWindowVisApp.h
 
 avt/DBAtts/MetaData/avtArrayMetaData.h
 dbatts_exports.h

@@ -350,26 +350,10 @@ stdio.h
 snprintf.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Slice/SliceAttributes.C
-SliceAttributes.h
--
-DataNode.h
--
-PlaneAttributes.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Slice/SliceCommonPluginInfo.C
 SlicePluginInfo.h
 -
 SliceAttributes.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Slice/SlicePluginInfo.C
-SlicePluginInfo.h
--
-SliceAttributes.h
--
-visit-config.h
 -
 
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Slice/SliceScriptingPluginInfo.C
@@ -436,14 +420,6 @@ AttributeGroup.h
 Subject.h
 -
 
-common/state/DataNode.h
-state_exports.h
--
-AttributeGroup.h
--
-visitstream.h
--
-
 common/state/JSONNode.h
 state_exports.h
 -
@@ -478,12 +454,6 @@ common/state/ObserverToCallback.h
 state_exports.h
 -
 Observer.h
--
-
-common/state/PlaneAttributes.h
-state_exports.h
--
-AttributeSubject.h
 -
 
 common/state/SimpleObserver.h
@@ -545,8 +515,6 @@ fstream
 -
 sstream
 -
-
-include/visit-config.h
 
 operators/Slice/PySliceAttributes.h
 Python.h

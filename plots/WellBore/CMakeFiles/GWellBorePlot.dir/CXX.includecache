@@ -1566,20 +1566,6 @@ QvisPostableWindowObserver.h
 AttributeSubject.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/WellBore/WellBoreAttributes.C
-WellBoreAttributes.h
--
-DataNode.h
--
-ColorControlPoint.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/WellBore/WellBoreCommonPluginInfo.C
-WellBorePluginInfo.h
--
-WellBoreAttributes.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/WellBore/WellBoreGUIPluginInfo.C
 WellBorePluginInfo.h
 -
@@ -1588,14 +1574,6 @@ WellBoreAttributes.h
 QApplication
 -
 QvisWellBorePlotWindow.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/WellBore/WellBorePluginInfo.C
-WellBorePluginInfo.h
--
-WellBoreAttributes.h
--
-visit-config.h
 -
 
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/WellBore/moc_QvisWellBorePlotWindow.cxx
@@ -1808,26 +1786,12 @@ state_exports.h
 AttributeSubject.h
 -
 
-common/state/ColorControlPoint.h
-state_exports.h
--
-AttributeSubject.h
--
-
 common/state/ColorControlPointList.h
 state_exports.h
 -
 string
 -
 AttributeSubject.h
--
-
-common/state/DataNode.h
-state_exports.h
--
-AttributeGroup.h
--
-visitstream.h
 -
 
 common/state/JSONNode.h
@@ -2049,8 +2013,6 @@ limits.h
 -
 
 gui/gui_exports.h
-
-include/visit-config.h
 
 plots/WellBore/QvisWellBorePlotWindow.h
 QvisPostableWindowObserver.h

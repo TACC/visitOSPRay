@@ -166,12 +166,6 @@ ElevateAttributes.h
 DataNode.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Elevate/ElevateCommonPluginInfo.C
-ElevatePluginInfo.h
--
-ElevateAttributes.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Elevate/ElevateEnginePluginInfo.C
 ElevatePluginInfo.h
 -
@@ -184,14 +178,6 @@ ElevatePluginInfo.h
 ElevateAttributes.h
 -
 visit-config.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Elevate/avtElevateFilter.C
-avtElevateFilter.h
--
-avtSurfaceFilter.h
--
-SurfaceFilterAttributes.h
 -
 
 avt/DBAtts/MetaData/avtTypes.h
@@ -302,22 +288,6 @@ vector
 ref_ptr.h
 -
 
-avt/Filters/avtSurfaceFilter.h
-filters_exports.h
--
-avtDataTreeIterator.h
--
-SurfaceFilterAttributes.h
--
-
-avt/Filters/filters_exports.h
-stdio.h
--
-string
--
-iostream
--
-
 avt/Math/avtMatrix.h
 math_exports.h
 -
@@ -337,36 +307,6 @@ ImproperUseException.h
 -
 
 avt/Math/math_exports.h
-
-avt/Pipeline/AbstractFilters/avtDataObjectToDatasetFilter.h
-pipeline_exports.h
--
-avtFilter.h
--
-avtDatasetSource.h
--
-
-avt/Pipeline/AbstractFilters/avtDataTreeIterator.h
-pipeline_exports.h
--
-avtSIMODataTreeIterator.h
--
-
-avt/Pipeline/AbstractFilters/avtDatasetToDataObjectFilter.h
-pipeline_exports.h
--
-avtFilter.h
--
-avtDatasetSink.h
--
-
-avt/Pipeline/AbstractFilters/avtDatasetToDatasetFilter.h
-pipeline_exports.h
--
-avtDatasetToDataObjectFilter.h
--
-avtDataObjectToDatasetFilter.h
--
 
 avt/Pipeline/AbstractFilters/avtFacadeFilter.h
 pipeline_exports.h
@@ -392,36 +332,10 @@ pipeline_exports.h
 avtFilter.h
 -
 
-avt/Pipeline/AbstractFilters/avtSIMODataTreeIterator.h
-pipeline_exports.h
--
-avtDatasetToDatasetFilter.h
--
-
 avt/Pipeline/AbstractFilters/avtSingleFilterFacade.h
 pipeline_exports.h
 -
 avtFacadeFilter.h
--
-
-avt/Pipeline/Data/avtCommonDataFunctions.h
-pipeline_exports.h
--
-avtDataRepresentation.h
--
-avtTypes.h
--
-vector
--
-string
--
-utility
--
-set
--
-visit-config.h
--
-cmath
 -
 
 avt/Pipeline/Data/avtDataAttributes.h
@@ -462,14 +376,6 @@ avtDataAttributes.h
 avtDataValidity.h
 -
 
-avt/Pipeline/Data/avtDataRepresentation.h
-pipeline_exports.h
--
-array_ref_ptr.h
--
-string
--
-
 avt/Pipeline/Data/avtDataSelection.h
 pipeline_exports.h
 -
@@ -478,34 +384,10 @@ ImproperUseException.h
 ref_ptr.h
 -
 
-avt/Pipeline/Data/avtDataTree.h
-pipeline_exports.h
--
-vector
--
-string
--
-set
--
-ref_ptr.h
--
-avtDataRepresentation.h
--
-
 avt/Pipeline/Data/avtDataValidity.h
 pipeline_exports.h
 -
 string
--
-
-avt/Pipeline/Data/avtDataset.h
-pipeline_exports.h
--
-avtCommonDataFunctions.h
--
-avtDataObject.h
--
-avtDataTree.h
 -
 
 avt/Pipeline/Data/avtExtents.h
@@ -558,28 +440,12 @@ avtDataObject.h
 avtContract.h
 -
 
-avt/Pipeline/Sinks/avtDatasetSink.h
-pipeline_exports.h
--
-avtDataObjectSink.h
--
-avtDataset.h
--
-
 avt/Pipeline/Sources/avtDataObjectSource.h
 pipeline_exports.h
 -
 avtDataObject.h
 -
 avtContract.h
--
-
-avt/Pipeline/Sources/avtDatasetSource.h
-pipeline_exports.h
--
-avtDataObjectSource.h
--
-avtDataset.h
 -
 
 avt/VisWindow/VisWindow/VisWindowTypes.h
@@ -724,12 +590,6 @@ common/state/Subject.h
 state_exports.h
 -
 vector
--
-
-common/state/SurfaceFilterAttributes.h
-string
--
-AttributeSubject.h
 -
 
 common/state/Variant.h

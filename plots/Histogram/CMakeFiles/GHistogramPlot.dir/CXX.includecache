@@ -1326,12 +1326,6 @@ windows.h
 windows.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Histogram/HistogramAttributes.C
-HistogramAttributes.h
--
-DataNode.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Histogram/HistogramCommonPluginInfo.C
 HistogramPluginInfo.h
 -
@@ -1407,10 +1401,6 @@ QvisPostableWindowObserver.h
 -
 AttributeSubject.h
 -
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Histogram/moc_QvisHistogramPlotWindow.cxx
-QvisHistogramPlotWindow.h
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Histogram/QvisHistogramPlotWindow.h
 
 avt/DBAtts/MetaData/avtTypes.h
 dbatts_exports.h
@@ -1610,14 +1600,6 @@ common/state/ColorAttribute.h
 state_exports.h
 -
 AttributeSubject.h
--
-
-common/state/DataNode.h
-state_exports.h
--
-AttributeGroup.h
--
-visitstream.h
 -
 
 common/state/JSONNode.h

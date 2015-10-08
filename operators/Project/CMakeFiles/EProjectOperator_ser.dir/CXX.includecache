@@ -562,32 +562,6 @@ windows.h
 windows.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Project/ProjectAttributes.C
-ProjectAttributes.h
--
-DataNode.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Project/ProjectCommonPluginInfo.C
-ProjectPluginInfo.h
--
-ProjectAttributes.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Project/ProjectEnginePluginInfo.C
-ProjectPluginInfo.h
--
-avtProjectFilter.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Project/ProjectPluginInfo.C
-ProjectPluginInfo.h
--
-ProjectAttributes.h
--
-visit-config.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Project/avtProjectFilter.C
 avtProjectFilter.h
 -
@@ -1028,24 +1002,6 @@ misc_exports.h
 
 common/misc/misc_exports.h
 
-common/plugin/OperatorPluginInfo.h
-plugin_exports.h
--
-plugin_vartypes.h
--
-stdio.h
--
-vector
--
-string
--
-
-common/plugin/operator_plugin_exports.h
-
-common/plugin/plugin_exports.h
-
-common/plugin/plugin_vartypes.h
-
 common/state/AttributeGroup.h
 state_exports.h
 -
@@ -1070,14 +1026,6 @@ state_exports.h
 AttributeGroup.h
 -
 Subject.h
--
-
-common/state/DataNode.h
-state_exports.h
--
-AttributeGroup.h
--
-visitstream.h
 -
 
 common/state/JSONNode.h
@@ -1226,12 +1174,6 @@ operators/Project/ProjectAttributes.h
 string
 -
 AttributeSubject.h
--
-
-operators/Project/ProjectPluginInfo.h
-OperatorPluginInfo.h
--
-operator_plugin_exports.h
 -
 
 operators/Project/avtProjectFilter.h

@@ -178,12 +178,6 @@ QtCore/qatomic_bootstrap.h
 QtCore/qatomic_arch.h
 -
 
-/work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtCore/qbuffer.h
-QtCore/qiodevice.h
--
-QtCore/qbytearray.h
--
-
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtCore/qbytearray.h
 QtCore/qatomic.h
 -
@@ -202,16 +196,6 @@ QtCore/qglobal.h
 
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtCore/qconfig.h
 
-/work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtCore/qcoreapplication.h
-QtCore/qobject.h
--
-QtCore/qcoreevent.h
--
-QtCore/qeventloop.h
--
-QtCore/qstringlist.h
--
-
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtCore/qcoreevent.h
 QtCore/qnamespace.h
 -
@@ -226,10 +210,6 @@ QtCore/qscopedpointer.h
 QtCore/qiodevice.h
 -
 QtCore/qglobal.h
--
-
-/work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtCore/qeventloop.h
-QtCore/qobject.h
 -
 
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtCore/qfeatures.h
@@ -380,10 +360,6 @@ QtCore/qdatastream.h
 QtCore/qnamespace.h
 -
 
-/work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtCore/qpointer.h
-QtCore/qobject.h
--
-
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtCore/qrect.h
 QtCore/qsize.h
 -
@@ -528,10 +504,6 @@ qabstractbutton.h
 qabstractslider.h
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qabstractslider.h
 
-/work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/QApplication
-qapplication.h
-/work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qapplication.h
-
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/QButtonGroup
 qbuttongroup.h
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qbuttongroup.h
@@ -598,28 +570,6 @@ QtGui/qwidget.h
 QtGui/qvalidator.h
 -
 
-/work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qapplication.h
-QtCore/qcoreapplication.h
--
-QtGui/qwindowdefs.h
--
-QtCore/qpoint.h
--
-QtCore/qsize.h
--
-QtGui/qcursor.h
--
-QtGui/qdesktopwidget.h
--
-QtGui/qwidget.h
--
-QtGui/qpalette.h
--
-QtGui/qrgb.h
--
-QtGui/qtransportauth_qws.h
--
-
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qboxlayout.h
 QtGui/qlayout.h
 -
@@ -668,10 +618,6 @@ QtCore/qstringlist.h
 QtCore/qpoint.h
 -
 QtGui/qwindowdefs.h
--
-
-/work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qdesktopwidget.h
-QtGui/qwidget.h
 -
 
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qdrag.h
@@ -1004,22 +950,6 @@ QtCore/qpoint.h
 QtCore/qrect.h
 -
 
-/work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qtransportauth_qws.h
-QtCore/qglobal.h
--
-QtCore/qobject.h
--
-QtCore/qhash.h
--
-QtCore/qstring.h
--
-QtCore/qbuffer.h
--
-QtCore/qpointer.h
--
-sys/types.h
--
-
 /work/01197/semeraro/maverick/VISIT/visit/qt/4.8.3/linux-x86_64_icc/include/QtGui/qvalidator.h
 QtCore/qobject.h
 -
@@ -1278,40 +1208,6 @@ QvisOperatorWindow.h
 AttributeSubject.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Smooth/SmoothCommonPluginInfo.C
-SmoothPluginInfo.h
--
-SmoothOperatorAttributes.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Smooth/SmoothGUIPluginInfo.C
-SmoothPluginInfo.h
--
-SmoothOperatorAttributes.h
--
-QApplication
--
-QvisSmoothWindow.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Smooth/SmoothOperatorAttributes.C
-SmoothOperatorAttributes.h
--
-DataNode.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Smooth/SmoothPluginInfo.C
-SmoothPluginInfo.h
--
-SmoothOperatorAttributes.h
--
-visit-config.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Smooth/moc_QvisSmoothWindow.cxx
-QvisSmoothWindow.h
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Smooth/QvisSmoothWindow.h
-
 avt/DBAtts/MetaData/avtTypes.h
 dbatts_exports.h
 -
@@ -1434,18 +1330,6 @@ misc_exports.h
 
 common/misc/misc_exports.h
 
-common/plugin/OperatorPluginInfo.h
-plugin_exports.h
--
-plugin_vartypes.h
--
-stdio.h
--
-vector
--
-string
--
-
 common/plugin/OperatorPluginManager.h
 plugin_exports.h
 -
@@ -1476,11 +1360,7 @@ map
 utility
 -
 
-common/plugin/operator_plugin_exports.h
-
 common/plugin/plugin_exports.h
-
-common/plugin/plugin_vartypes.h
 
 common/state/AttributeGroup.h
 state_exports.h
@@ -1506,14 +1386,6 @@ state_exports.h
 AttributeGroup.h
 -
 Subject.h
--
-
-common/state/DataNode.h
-state_exports.h
--
-AttributeGroup.h
--
-visitstream.h
 -
 
 common/state/JSONNode.h
@@ -1728,22 +1600,8 @@ limits.h
 
 gui/gui_exports.h
 
-include/visit-config.h
-
-operators/Smooth/QvisSmoothWindow.h
-QvisOperatorWindow.h
--
-AttributeSubject.h
--
-
 operators/Smooth/SmoothOperatorAttributes.h
 AttributeSubject.h
--
-
-operators/Smooth/SmoothPluginInfo.h
-OperatorPluginInfo.h
--
-operator_plugin_exports.h
 -
 
 viewer/proxy/ViewerProxy.h

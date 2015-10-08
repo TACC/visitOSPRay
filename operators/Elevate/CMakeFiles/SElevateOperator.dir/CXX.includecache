@@ -346,12 +346,6 @@ ElevateAttributes.h
 DataNode.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Elevate/ElevateCommonPluginInfo.C
-ElevatePluginInfo.h
--
-ElevateAttributes.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Elevate/ElevatePluginInfo.C
 ElevatePluginInfo.h
 -

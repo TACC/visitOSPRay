@@ -644,10 +644,24 @@ vtkObject.h
 windows.h
 -
 
+/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Spreadsheet/SpreadsheetCommonPluginInfo.C
+SpreadsheetPluginInfo.h
+-
+SpreadsheetAttributes.h
+-
+
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Spreadsheet/SpreadsheetEnginePluginInfo.C
 SpreadsheetPluginInfo.h
 -
 avtSpreadsheetPlot.h
+-
+
+/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Spreadsheet/SpreadsheetPluginInfo.C
+SpreadsheetPluginInfo.h
+-
+SpreadsheetAttributes.h
+-
+visit-config.h
 -
 
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Spreadsheet/avtOpenGLSpreadsheetTraceRenderer.C
@@ -702,6 +716,10 @@ avtOpenGLSpreadsheetTraceRenderer.h
 
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Spreadsheet/avtSpreadsheetRenderer_Engine.C
 avtSpreadsheetRenderer.h
+-
+
+/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Spreadsheet/avtSpreadsheetTraceRenderer.C
+avtSpreadsheetTraceRenderer.h
 -
 
 avt/DBAtts/MetaData/avtTypes.h

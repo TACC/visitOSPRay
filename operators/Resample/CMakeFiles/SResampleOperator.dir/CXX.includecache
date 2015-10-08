@@ -350,12 +350,6 @@ stdio.h
 snprintf.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Resample/ResampleAttributes.C
-ResampleAttributes.h
--
-DataNode.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Resample/ResampleCommonPluginInfo.C
 ResamplePluginInfo.h
 -
@@ -432,14 +426,6 @@ state_exports.h
 AttributeGroup.h
 -
 Subject.h
--
-
-common/state/DataNode.h
-state_exports.h
--
-AttributeGroup.h
--
-visitstream.h
 -
 
 common/state/JSONNode.h

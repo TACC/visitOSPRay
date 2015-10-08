@@ -1146,12 +1146,6 @@ QvisPostableWindowObserver.h
 AttributeSubject.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Truecolor/TruecolorAttributes.C
-TruecolorAttributes.h
--
-DataNode.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Truecolor/TruecolorCommonPluginInfo.C
 TruecolorPluginInfo.h
 -
@@ -1169,18 +1163,6 @@ QvisTruecolorPlotWindow.h
 -
 Truecolor.xpm
 -
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Truecolor/TruecolorPluginInfo.C
-TruecolorPluginInfo.h
--
-TruecolorAttributes.h
--
-visit-config.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Truecolor/moc_QvisTruecolorPlotWindow.cxx
-QvisTruecolorPlotWindow.h
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Truecolor/QvisTruecolorPlotWindow.h
 
 avt/DBAtts/MetaData/avtTypes.h
 dbatts_exports.h
@@ -1376,14 +1358,6 @@ AttributeGroup.h
 Subject.h
 -
 
-common/state/DataNode.h
-state_exports.h
--
-AttributeGroup.h
--
-visitstream.h
--
-
 common/state/JSONNode.h
 state_exports.h
 -
@@ -1567,8 +1541,6 @@ limits.h
 -
 
 gui/gui_exports.h
-
-include/visit-config.h
 
 plots/Truecolor/QvisTruecolorPlotWindow.h
 QvisPostableWindowObserver.h

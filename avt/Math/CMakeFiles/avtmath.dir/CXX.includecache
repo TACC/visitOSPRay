@@ -200,10 +200,6 @@ visitstream.h
 avtVector.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Math/avtPlane.C
-avtPlane.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Math/avtPolynomial.C
 avtPolynomial.h
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/avt/Math/avtPolynomial.h
@@ -266,10 +262,6 @@ math_exports.h
 visitstream.h
 -
 avtVector.h
--
-
-avt/Math/avtPlane.h
-math_exports.h
 -
 
 avt/Math/avtQuaternion.h

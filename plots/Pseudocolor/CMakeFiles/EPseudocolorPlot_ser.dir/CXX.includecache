@@ -160,10 +160,40 @@ windows.h
 windows.h
 -
 
+/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Pseudocolor/PseudocolorAttributes.C
+PseudocolorAttributes.h
+-
+DataNode.h
+-
+Utility.h
+-
+DebugStream.h
+-
+
+/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Pseudocolor/PseudocolorCommonPluginInfo.C
+PseudocolorPluginInfo.h
+-
+PseudocolorAttributes.h
+-
+
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Pseudocolor/PseudocolorEnginePluginInfo.C
 PseudocolorPluginInfo.h
 -
 avtPseudocolorPlot.h
+-
+
+/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Pseudocolor/PseudocolorPluginInfo.C
+PseudocolorPluginInfo.h
+-
+PseudocolorAttributes.h
+-
+visit-config.h
+-
+
+/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Pseudocolor/avtPseudocolorFilter.C
+avtPseudocolorFilter.h
+-
+string
 -
 
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Pseudocolor/avtPseudocolorPlot.C
@@ -1018,6 +1048,14 @@ AttributeGroup.h
 Subject.h
 -
 
+common/state/DataNode.h
+state_exports.h
+-
+AttributeGroup.h
+-
+visitstream.h
+-
+
 common/state/JSONNode.h
 state_exports.h
 -
@@ -1100,6 +1138,28 @@ common/state/state_exports.h
 
 common/utility/Namescheme.h
 utility_exports.h
+-
+
+common/utility/Utility.h
+utility_exports.h
+-
+visitstream.h
+-
+visit-config.h
+-
+vectortypes.h
+-
+map
+-
+limits.h
+-
+float.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
 -
 
 common/utility/VisItAtomic.h

@@ -366,12 +366,6 @@ PyGaussianControlPointList.h
 PyTransferFunctionWidget.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Volume/TransferFunctionWidget.C
-TransferFunctionWidget.h
--
-DataNode.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Volume/VolumeAttributes.C
 VolumeAttributes.h
 -

@@ -858,14 +858,6 @@ CartographicProjectionPluginInfo.h
 CartographicProjectionAttributes.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/CartographicProjection/CartographicProjectionPluginInfo.C
-CartographicProjectionPluginInfo.h
--
-CartographicProjectionAttributes.h
--
-visit-config.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/CartographicProjection/CartographicProjectionViewerPluginInfo.C
 CartographicProjectionPluginInfo.h
 -
@@ -1017,8 +1009,6 @@ fstream
 -
 sstream
 -
-
-include/visit-config.h
 
 operators/CartographicProjection/CartographicProjection.xpm
 

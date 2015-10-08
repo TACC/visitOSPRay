@@ -546,32 +546,6 @@ windows.h
 windows.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Extrude/ExtrudeAttributes.C
-ExtrudeAttributes.h
--
-DataNode.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Extrude/ExtrudeCommonPluginInfo.C
-ExtrudePluginInfo.h
--
-ExtrudeAttributes.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Extrude/ExtrudeEnginePluginInfo.C
-ExtrudePluginInfo.h
--
-avtExtrudeFilter.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Extrude/ExtrudePluginInfo.C
-ExtrudePluginInfo.h
--
-ExtrudeAttributes.h
--
-visit-config.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Extrude/avtExtrudeFilter.C
 avtExtrudeFilter.h
 -
@@ -1032,24 +1006,6 @@ misc_exports.h
 
 common/misc/misc_exports.h
 
-common/plugin/OperatorPluginInfo.h
-plugin_exports.h
--
-plugin_vartypes.h
--
-stdio.h
--
-vector
--
-string
--
-
-common/plugin/operator_plugin_exports.h
-
-common/plugin/plugin_exports.h
-
-common/plugin/plugin_vartypes.h
-
 common/state/AttributeGroup.h
 state_exports.h
 -
@@ -1074,14 +1030,6 @@ state_exports.h
 AttributeGroup.h
 -
 Subject.h
--
-
-common/state/DataNode.h
-state_exports.h
--
-AttributeGroup.h
--
-visitstream.h
 -
 
 common/state/JSONNode.h
@@ -1228,12 +1176,6 @@ include/visit-config.h
 
 operators/Extrude/ExtrudeAttributes.h
 AttributeSubject.h
--
-
-operators/Extrude/ExtrudePluginInfo.h
-OperatorPluginInfo.h
--
-operator_plugin_exports.h
 -
 
 operators/Extrude/avtExtrudeFilter.h

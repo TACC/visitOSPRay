@@ -1248,12 +1248,6 @@ PersistentParticlesAttributes.h
 DataNode.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/PersistentParticles/PersistentParticlesCommonPluginInfo.C
-PersistentParticlesPluginInfo.h
--
-PersistentParticlesAttributes.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/PersistentParticles/PersistentParticlesGUIPluginInfo.C
 PersistentParticlesPluginInfo.h
 -
@@ -1264,14 +1258,6 @@ QApplication
 QvisPersistentParticlesWindow.h
 -
 PersistentParticles.xpm
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/PersistentParticles/PersistentParticlesPluginInfo.C
-PersistentParticlesPluginInfo.h
--
-PersistentParticlesAttributes.h
--
-visit-config.h
 -
 
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/PersistentParticles/QvisPersistentParticlesWindow.C
@@ -1739,8 +1725,6 @@ limits.h
 -
 
 gui/gui_exports.h
-
-include/visit-config.h
 
 operators/PersistentParticles/PersistentParticles.xpm
 

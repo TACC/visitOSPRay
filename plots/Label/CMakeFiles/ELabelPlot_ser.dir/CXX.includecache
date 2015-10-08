@@ -382,14 +382,6 @@ vtkDataArray.h
 vtkDataArrayTemplate.h
 /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkDataArrayTemplate.h
 
-/work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkLookupTable.h
-vtkCommonCoreModule.h
-/work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkCommonCoreModule.h
-vtkScalarsToColors.h
-/work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkScalarsToColors.h
-vtkUnsignedCharArray.h
-/work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkUnsignedCharArray.h
-
 /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkMappedDataArray.h
 vtkTypedDataArray.h
 /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkTypedDataArray.h
@@ -628,8 +620,6 @@ vtkCommonCoreModule.h
 vtkSystemIncludes.h
 /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkSystemIncludes.h
 
-/work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkToolkits.h
-
 /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkType.h
 vtkConfigure.h
 /work/01336/carson/VisIt/VisItDave/visit/vtk/6.1.0/linux-x86_64_icc/include/vtk-6.1/vtkConfigure.h
@@ -768,50 +758,30 @@ vtkObject.h
 windows.h
 -
 
+/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Label/LabelAttributes.C
+LabelAttributes.h
+-
+DataNode.h
+-
+
+/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Label/LabelCommonPluginInfo.C
+LabelPluginInfo.h
+-
+LabelAttributes.h
+-
+
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Label/LabelEnginePluginInfo.C
 LabelPluginInfo.h
 -
 avtLabelPlot.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Label/avtLabelPlot.C
-avtLabelPlot.h
+/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Label/LabelPluginInfo.C
+LabelPluginInfo.h
 -
-avtCallback.h
+LabelAttributes.h
 -
-avtCondenseDatasetFilter.h
--
-avtExtents.h
--
-avtGhostZoneAndFacelistFilter.h
--
-avtLabelFilter.h
--
-avtLabelsMapper.h
--
-avtLabelSubsetsFilter.h
--
-vtkToolkits.h
--
-avtOpenGLLabelRenderer.h
--
-vtkLookupTable.h
--
-avtUserDefinedMapper.h
--
-avtVariableLegend.h
--
-avtVertexNormalsFilter.h
--
-TimingsManager.h
--
-DebugStream.h
--
-ImproperUseException.h
--
-string
--
-vector
+visit-config.h
 -
 
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Label/avtLabelRenderer.C
@@ -1088,32 +1058,6 @@ vector
 
 avt/Database/Database/database_exports.h
 
-avt/Filters/avtCondenseDatasetFilter.h
-filters_exports.h
--
-avtDataTreeIterator.h
--
-
-avt/Filters/avtGhostZoneAndFacelistFilter.h
-filters_exports.h
--
-avtDatasetToDatasetFilter.h
--
-
-avt/Filters/avtVertexNormalsFilter.h
-filters_exports.h
--
-avtDataTreeIterator.h
--
-
-avt/Filters/filters_exports.h
-stdio.h
--
-string
--
-iostream
--
-
 avt/Math/avtMatrix.h
 math_exports.h
 -
@@ -1150,12 +1094,6 @@ avtFilter.h
 avtImageSource.h
 -
 
-avt/Pipeline/AbstractFilters/avtDataTreeIterator.h
-pipeline_exports.h
--
-avtSIMODataTreeIterator.h
--
-
 avt/Pipeline/AbstractFilters/avtDatasetToDataObjectFilter.h
 pipeline_exports.h
 -
@@ -1190,12 +1128,6 @@ void_ref_ptr.h
 avtDataObjectSource.h
 -
 avtDataObjectSink.h
--
-
-avt/Pipeline/AbstractFilters/avtSIMODataTreeIterator.h
-pipeline_exports.h
--
-avtDatasetToDatasetFilter.h
 -
 
 avt/Pipeline/Data/avtCallback.h
@@ -1702,12 +1634,6 @@ avtMapper.h
 vtkDataSetMapper.h
 -
 
-avt/Plotter/avtVariableLegend.h
-plotter_exports.h
--
-avtLegend.h
--
-
 avt/Plotter/plotter_exports.h
 
 avt/View/avtViewInfo.h
@@ -1836,6 +1762,14 @@ state_exports.h
 string
 -
 AttributeSubject.h
+-
+
+common/state/DataNode.h
+state_exports.h
+-
+AttributeGroup.h
+-
+visitstream.h
 -
 
 common/state/GlobalAttributes.h
@@ -2090,10 +2024,6 @@ plots/Label/NodeLabels_body.C
 
 plots/Label/arial.h
 
-plots/Label/avtLabelFilter.h
-avtDataTreeIterator.h
--
-
 plots/Label/avtLabelPlot.h
 LabelAttributes.h
 -
@@ -2112,12 +2042,6 @@ LabelAttributes.h
 vtkSystemIncludes.h
 -
 map
--
-string
--
-
-plots/Label/avtLabelSubsetsFilter.h
-avtSIMODataTreeIterator.h
 -
 string
 -

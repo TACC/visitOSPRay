@@ -1444,10 +1444,6 @@ SubsetAttributes.h
 ViewerProxy.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Subset/QvisSubsetPlotWindow.h
-QvisPostableWindowObserver.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Subset/SubsetAttributes.C
 SubsetAttributes.h
 -
@@ -1479,10 +1475,6 @@ SubsetAttributes.h
 -
 visit-config.h
 -
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Subset/moc_QvisSubsetPlotWindow.cxx
-QvisSubsetPlotWindow.h
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Subset/QvisSubsetPlotWindow.h
 
 avt/DBAtts/MetaData/avtTypes.h
 dbatts_exports.h

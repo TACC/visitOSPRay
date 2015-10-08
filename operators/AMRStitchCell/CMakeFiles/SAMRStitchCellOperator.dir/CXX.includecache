@@ -340,12 +340,6 @@ wctype.h
 
 /work/01197/semeraro/maverick/VISIT/visit/python/2.7.6/linux-x86_64_icc/include/python2.7/weakrefobject.h
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/AMRStitchCell/AMRStitchCellAttributes.C
-AMRStitchCellAttributes.h
--
-DataNode.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/AMRStitchCell/AMRStitchCellCommonPluginInfo.C
 AMRStitchCellPluginInfo.h
 -
@@ -364,16 +358,6 @@ visit-config.h
 PyAMRStitchCellAttributes.h
 -
 AMRStitchCellPluginInfo.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/AMRStitchCell/PyAMRStitchCellAttributes.C
-PyAMRStitchCellAttributes.h
--
-ObserverToCallback.h
--
-stdio.h
--
-snprintf.h
 -
 
 common/misc/VisItException.h
@@ -434,14 +418,6 @@ AttributeGroup.h
 Subject.h
 -
 
-common/state/DataNode.h
-state_exports.h
--
-AttributeGroup.h
--
-visitstream.h
--
-
 common/state/JSONNode.h
 state_exports.h
 -
@@ -464,22 +440,6 @@ JSONNode.h
 Variant.h
 -
 map
--
-
-common/state/Observer.h
-state_exports.h
--
-SimpleObserver.h
--
-
-common/state/ObserverToCallback.h
-state_exports.h
--
-Observer.h
--
-
-common/state/SimpleObserver.h
-state_exports.h
 -
 
 common/state/Subject.h
@@ -513,10 +473,6 @@ map
 -
 
 common/state/state_exports.h
-
-common/utility/snprintf.h
-stdio.h
--
 
 common/utility/vectortypes.h
 string

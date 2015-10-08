@@ -1256,14 +1256,6 @@ QApplication
 QvisFFTWindow.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/FFT/FFTPluginInfo.C
-FFTPluginInfo.h
--
-FFTAttributes.h
--
-visit-config.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/FFT/QvisFFTWindow.C
 QvisFFTWindow.h
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/FFT/QvisFFTWindow.h
@@ -1307,10 +1299,6 @@ QvisOperatorWindow.h
 -
 AttributeSubject.h
 -
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/FFT/moc_QvisFFTWindow.cxx
-QvisFFTWindow.h
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/FFT/QvisFFTWindow.h
 
 avt/DBAtts/MetaData/avtTypes.h
 dbatts_exports.h
@@ -1727,8 +1715,6 @@ limits.h
 -
 
 gui/gui_exports.h
-
-include/visit-config.h
 
 operators/FFT/FFTAttributes.h
 AttributeSubject.h

@@ -852,20 +852,6 @@ IsovolumeAttributes.h
 DataNode.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Isovolume/IsovolumeCommonPluginInfo.C
-IsovolumePluginInfo.h
--
-IsovolumeAttributes.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Isovolume/IsovolumePluginInfo.C
-IsovolumePluginInfo.h
--
-IsovolumeAttributes.h
--
-visit-config.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Isovolume/IsovolumeViewerPluginInfo.C
 IsovolumePluginInfo.h
 -
@@ -1017,8 +1003,6 @@ fstream
 -
 sstream
 -
-
-include/visit-config.h
 
 operators/Isovolume/Isovolume.xpm
 

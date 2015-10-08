@@ -644,10 +644,30 @@ vtkObject.h
 windows.h
 -
 
+/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Spreadsheet/SpreadsheetAttributes.C
+SpreadsheetAttributes.h
+-
+DataNode.h
+-
+
+/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Spreadsheet/SpreadsheetCommonPluginInfo.C
+SpreadsheetPluginInfo.h
+-
+SpreadsheetAttributes.h
+-
+
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Spreadsheet/SpreadsheetEnginePluginInfo.C
 SpreadsheetPluginInfo.h
 -
 avtSpreadsheetPlot.h
+-
+
+/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Spreadsheet/SpreadsheetPluginInfo.C
+SpreadsheetPluginInfo.h
+-
+SpreadsheetAttributes.h
+-
+visit-config.h
 -
 
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Spreadsheet/avtOpenGLSpreadsheetTraceRenderer.C
@@ -668,6 +688,26 @@ vtkStructuredGrid.h
 vtkCell.h
 -
 DebugStream.h
+-
+
+/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Spreadsheet/avtSpreadsheetFilter.C
+avtSpreadsheetFilter.h
+-
+vtkDataSet.h
+-
+InvalidSetException.h
+-
+InvalidVariableException.h
+-
+avtExtents.h
+-
+avtSILRestrictionTraverser.h
+-
+DebugStream.h
+-
+string
+-
+vector
 -
 
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Spreadsheet/avtSpreadsheetPlot.C
@@ -702,6 +742,10 @@ avtOpenGLSpreadsheetTraceRenderer.h
 
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Spreadsheet/avtSpreadsheetRenderer_Engine.C
 avtSpreadsheetRenderer.h
+-
+
+/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/plots/Spreadsheet/avtSpreadsheetTraceRenderer.C
+avtSpreadsheetTraceRenderer.h
 -
 
 avt/DBAtts/MetaData/avtTypes.h
@@ -798,6 +842,14 @@ string
 avtSIL.h
 -
 avtTypes.h
+-
+
+avt/DBAtts/SIL/avtSILRestrictionTraverser.h
+dbatts_exports.h
+-
+vector
+-
+avtSILRestriction.h
 -
 
 avt/DBAtts/SIL/avtSILSet.h
@@ -1448,7 +1500,25 @@ string
 
 avt/VisWindow/VisWindow/viswindow_exports.h
 
+common/Exceptions/Database/DatabaseException.h
+avtexception_exports.h
+-
+VisItException.h
+-
+
+common/Exceptions/Database/InvalidVariableException.h
+avtexception_exports.h
+-
+DatabaseException.h
+-
+
 common/Exceptions/Pipeline/ImproperUseException.h
+avtexception_exports.h
+-
+PipelineException.h
+-
+
+common/Exceptions/Pipeline/InvalidSetException.h
 avtexception_exports.h
 -
 PipelineException.h
@@ -1542,6 +1612,14 @@ state_exports.h
 string
 -
 AttributeSubject.h
+-
+
+common/state/DataNode.h
+state_exports.h
+-
+AttributeGroup.h
+-
+visitstream.h
 -
 
 common/state/GlobalAttributes.h

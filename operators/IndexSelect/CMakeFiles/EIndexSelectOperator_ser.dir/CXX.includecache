@@ -634,30 +634,10 @@ windows.h
 windows.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/IndexSelect/IndexSelectAttributes.C
-IndexSelectAttributes.h
--
-DataNode.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/IndexSelect/IndexSelectCommonPluginInfo.C
 IndexSelectPluginInfo.h
 -
 IndexSelectAttributes.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/IndexSelect/IndexSelectEnginePluginInfo.C
-IndexSelectPluginInfo.h
--
-avtIndexSelectFilter.h
--
-
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/IndexSelect/IndexSelectPluginInfo.C
-IndexSelectPluginInfo.h
--
-IndexSelectAttributes.h
--
-visit-config.h
 -
 
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/IndexSelect/avtIndexSelectFilter.C
@@ -1292,14 +1272,6 @@ state_exports.h
 string
 -
 AttributeSubject.h
--
-
-common/state/DataNode.h
-state_exports.h
--
-AttributeGroup.h
--
-visitstream.h
 -
 
 common/state/GlobalAttributes.h

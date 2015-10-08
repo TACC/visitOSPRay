@@ -1308,10 +1308,6 @@ QvisOperatorWindow.h
 AttributeSubject.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Delaunay/moc_QvisDelaunayWindow.cxx
-QvisDelaunayWindow.h
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Delaunay/QvisDelaunayWindow.h
-
 avt/DBAtts/MetaData/avtTypes.h
 dbatts_exports.h
 -

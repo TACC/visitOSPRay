@@ -346,12 +346,6 @@ DecimateAttributes.h
 DataNode.h
 -
 
-/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Decimate/DecimateCommonPluginInfo.C
-DecimatePluginInfo.h
--
-DecimateAttributes.h
--
-
 /work/01336/carson/VisIt/VisItDave/visit2.8.1/src/operators/Decimate/DecimatePluginInfo.C
 DecimatePluginInfo.h
 -

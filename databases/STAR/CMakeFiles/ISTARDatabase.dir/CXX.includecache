@@ -6,3 +6,31 @@
 
 #IncludeRegexTransform: 
 
+/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/databases/STAR/STARPluginInfo.C
+STARPluginInfo.h
+-
+visit-config.h
+-
+
+common/plugin/DatabasePluginInfo.h
+plugin_exports.h
+-
+stdio.h
+-
+string
+-
+vector
+-
+
+common/plugin/database_plugin_exports.h
+
+common/plugin/plugin_exports.h
+
+databases/STAR/STARPluginInfo.h
+DatabasePluginInfo.h
+-
+database_plugin_exports.h
+-
+
+include/visit-config.h
+
