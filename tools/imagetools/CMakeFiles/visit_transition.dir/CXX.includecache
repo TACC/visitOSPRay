@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/tools/imagetools/ImageObject.C
+ImageObject.h
+-
+stdio.h
+-
+string.h
+-
+
+/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/tools/imagetools/visit_transition.C
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+math.h
+-
+snprintf.h
+-
+ImageObject.h
+-
+set
+-
+
+common/utility/snprintf.h
+stdio.h
+-
+
+tools/imagetools/ImageObject.h
+

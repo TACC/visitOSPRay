@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/work/01336/carson/VisIt/VisItDave/visit/silo/4.10.1/linux-x86_64_icc/include/silo.h
+stdio.h
+-
+silo_exports.h
+-
+
+/work/01336/carson/VisIt/VisItDave/visit/silo/4.10.1/linux-x86_64_icc/include/silo_exports.h
+
+/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/tools/mrgtree2dot/mrgtree2dot.C
+cstdlib
+-
+cstring
+-
+iostream
+-
+iomanip
+-
+sstream
+-
+fstream
+-
+vector
+-
+sys/stat.h
+-
+silo.h
+-
+

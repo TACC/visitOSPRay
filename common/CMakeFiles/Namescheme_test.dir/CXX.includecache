@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/common/utility/Namescheme_test.C
+Namescheme.h
+-
+string.h
+-
+
+common/utility/Namescheme.h
+utility_exports.h
+-
+
+common/utility/utility_exports.h
+

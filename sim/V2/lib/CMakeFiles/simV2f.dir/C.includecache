@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/sim/V2/lib/VisItFortran.h
+stdlib.h
+-
+string.h
+-
+
+/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/sim/V2/lib/visitfortransimV2interface.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+VisItControlInterface_V2.h
+-
+VisItFortran.h
+/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/sim/V2/lib/VisItFortran.h
+
+sim/V2/lib/VisItControlInterface_V2.h
+VisItInterfaceTypes_V2.h
+-
+VisItControlInterface_V2_plotting.h
+-
+
+sim/V2/lib/VisItControlInterface_V2_plotting.h
+
+sim/V2/lib/VisItInterfaceTypes_V2.h
+

@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/work/01336/carson/VisIt/VisItDave/visit2.8.1/src/common/utility/MRUCache_test.C
+MRUCache.h
+-
+visitstream.h
+-
+string
+-
+stdio.h
+-
+cstring
+-
+cstdlib
+-
+
+common/utility/MRUCache.h
+cstddef
+-
+cstdlib
+-
+map
+-
+vector
+-
+
+common/utility/visitstream.h
+iostream.h
+-
+fstream.h
+-
+strstrea.h
+-
+iostream
+-
+fstream
+-
+sstream
+-
+
