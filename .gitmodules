@@ -1,0 +1,3 @@
+[submodule "avt/Plotter/OSPRay/vtkOSPRay"]
+	path = avt/Plotter/OSPRay/vtkOSPRay
+	url = git@github.com:TACC/vtkOSPRay.git
